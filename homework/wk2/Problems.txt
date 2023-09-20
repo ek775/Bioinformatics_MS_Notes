@@ -1,0 +1,29 @@
+#3.1
+Download or copy-and-paste the DNA sequence of the Anthrax SASP gene from the anthrax_sasp.nuc file in the course data-directory. Treat the provided sequence as the sequence to be translated (no 5' UTR).Write a Python program to print answers to the following questions:
+Does the SASP gene start with a Met codon?
+Does the SASP gene have a frame 1 Met codon? 
+How many nucleotides in the SASP gene?
+How many amino-acids in the SASP protein?
+What is the GC content (% G or C nucleotides) of the SASP gene?
+Test your program with other gene sequences.
+
+
+#4.1
+Write a Python program to compute the reverse complement of a codon
+Use my solution to Homework #1 Exercise #1 as a starting point
+Add the “complement” function of this lecture(slide 9) as provided.
+Modularize! Place the reverse complement code in a new function. 
+Call the new function with a variety of codons
+Change the complement function to handle upper and lower-case nucleotide symbols.
+Test your code with upper and lower-case codons.
+
+#4.2
+Write a Python program to determine whether or not a DNA sequence consists of a (integer) number of (perfect) "tandem" repeats.
+Test it on sequences:
+AAAAAAAAAAAAAAAA
+CACACACACACACAC
+ATTCGATTCGATTCG
+GTAGTAGTAGTAGTA
+TCAGTCACTCACTCAG
+Hint: Is the sequence the same as many (how many?) repetitions of its first character? 
+Hint: Is the sequence the same as many (how many?) repetitions of its first two characters?

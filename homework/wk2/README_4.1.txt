@@ -1,0 +1,8 @@
+Methods:
+
+(1) The overall task which needs to be accomplished is to return a string containing a complementary DNA sequence in reverse order. To do this in code, best practice is to break down the 2 components of this task into their own functions and then use them to define a 3rd function which does both tasks simultaneously. This makes it easy to troubleshoot the code, as well as to run tests on various DNA sequences to ensure it works. It also has the advantage of being able to call each function in an interactive python terminal after loading the script to run necessary tests. 
+(2) The reverse function utilizes a loop to make it capable of handling variable length sequences, similar to the loop structure used for the complement function with conditional statements to convert each base. More detailed info on my methods within each function can be found in the docstrings associated with each.
+
+Discussion:
+
+(1) The use of for loops makes it possible to iterate through sequences of variable length, and the use of custom functions makes the code clean and reusable. The most obvious weakness of my code is the way I designed the complement function, which, is somewhat explicit due to the use of multiple conditionals. Thus, if there were an error in the string passed to it where RNA was put in or some unexpected string literal was contained in the sequence, the function would simply skip that character. Later in the course I believe we will be exposed to ways to handle these issues, but for now it is effectively a bug in the code.

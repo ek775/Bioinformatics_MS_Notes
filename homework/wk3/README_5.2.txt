@@ -1,0 +1,9 @@
+Methods:
+************************************************************************************************
+I reused the reverse-complement function here via copy and paste since we haven't covered import mechanics yet, then defined the main function for identifying palindromic primers. 
+
+The core of the primer_pal function splits a given primer sequence into a front half and back half, generates a hypothetical palindrome from the front half with the reverse-complement function, and compares the back half against the hypothetical palindrome to determine if the primer may self-anneal. If an odd-numbered sequence is passed into the function, the middle base is removed prior to the above steps.
+
+Discussion:
+************************************************************************************************
+This is a relatively crude method for identifying primers that may self-anneal. The function itself is very strict and requires exact matching to return a positive indication, which, may be arbitrarily selective and does not reflect the underlying molecular physics. Self-annealing primers tend to form in a stem-and-loop motif that involves a number of bases in the loop that do not need to self anneal, and there is some possibility that the palindromic sequences do not need to be perfectly aligned in their position relative to the entire primer sequence. For instance, a short palindromic sequence pair might self-anneal even if it does not start at the very ends of the primer, or the loop section might vary in size between various self-annealing primers. Thus, a probabilistic output is likely more appropriate for answering this question (i.e. logistic regression based on size/location of palindromic sections of the primer).

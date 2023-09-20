@@ -1,0 +1,19 @@
+5.1) Use PrimerBank (“google PrimerBank”) to look up PCR primers for your favorite gene
+Use Search By: “NCBI Gene Symbol”, Species: “Human” to find PCR primers for your gene. 
+Write a program to compute the reverse complement sequence of both the forward and reverse primer (in one program).
+
+5.2) Write a program to test whether a PCR primer is a reverse complement palindrome.
+Such a primer might fold and self-hybridize!
+Test your program on at least the following primers:
+TTGAGTAGACGCGTCTACTCAA
+TTGAGTAGACGTCGTCTACTCAA
+ATATATATATATATAT
+ATCTATATATATGTAT
+
+6.1) Extend your solution for Exercise 1 from Lecture 5 to get its two PCR primers from the command-line.
+
+6.2) Write a command-line program for manipulating a DNA sequence:
+DNA sequence in a file, with the filename provided on the command-line
+Manipulation command also provided on the command-line:
+Command is one of: Complement, Reverse, or ReverseComplement
+Print the DNA sequence, and the appropriate manipulation of the DNA sequence to the terminal. 
