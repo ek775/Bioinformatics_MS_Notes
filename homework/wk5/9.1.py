@@ -17,7 +17,7 @@ Otherwise, output 'X'.
 """
 Per the taxonomy browser - the correct translation table for Bacillus anthracis
 (Taxonomy ID: 1392) [https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1392&lvl=3&p=has_linkout&p=blast_url&p=genome_blast&lin=f&keep=1&srchmode=1&unlock]
-is table 11 which has been downloaded into my directory as 'table_11.txt' and
+is table 11 which has been downloaded into this directory as 'table_11.txt' and
 uploaded to canvas as such.
 """
 
@@ -72,6 +72,19 @@ for i in range(n):
 
 
 ### TRANSLATE AA SEQUENCE
+def loose_3rd(given_codon):
+    """adjunct for the translate function handling partial matches in the codon table"""
+    residue = None
+    #find partial match entries in codon table
+    #note that this only checks 3rd base mismatches - this is based on accepted theory of loose 3rd base pairing
+    partial_match = [cdn for cdn in codons.keys() if cdn[0:1]==given_codon[0:1]]
+    partial_match_values = [codons[r] for r in partial_match] #find relevant translations
+    if len(set(partial_match_values))==1:
+        residue = partial_match_values[0]
+    #if unable to resolve partial match, return "X"
+    else:
+        residue = "X"
+    return residue
 
 #Defining Functions:
 def translate(seq):
@@ -80,7 +93,7 @@ def translate(seq):
     transcript_ini = []
     for b in range(0, len(seq), 3):
         c = seq[b:b+3]
-        res = codons.get(c,"X")
+        res = codons.get(c,loose_3rd(c))
         transcript_ini.append(res)
     #concatenate translated AAs
     transcript_final = "".join(transcript_ini)
