@@ -9,14 +9,14 @@ Write a program to compute and output the frequency of each nucleotide in a DNA 
 Output the frequencies in most-occurrences to least-occurrences order.
 """
 # CLI Functionality
-#import sys
+import sys
 
-#seq_file = sys.argv[1]
+seq_file = sys.argv[1]
 
 ### SEQUENCE FILE PARSING
-#file = open("anthrax_sasp.nuc")
-strange_women = "".join(open("anthrax_sasp.nuc").read().split())
-#file.close()
+file = open(f"./{seq_file}", "r")
+strange_women = "".join(file.read().split())
+file.close()
 
 ### COUNTING
 swords_in_pond = len(strange_women)
@@ -32,10 +32,11 @@ shrubbery = {}
 for sword in pond:
     shrubbery[sword] = pond[sword]/swords_in_pond
 
-shrubbery
 ### OUTPUT
 for i in shrubbery:
-    print(f"{i}:{shrubbery[i]}")
+    print(f"{i}:\t{shrubbery[i]}")
 
 
-
+#shits n giggles
+print()
+print("Strange women lying in ponds distributing swords is no basis for a system of government!")
