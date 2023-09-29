@@ -48,13 +48,19 @@ shitty_data_frame = [r for r in reader]
 
 #initialize dict for aggregation
 columns = [i for i in shitty_data_frame[1].keys()]
-init_zeros = [0 for i in range(len(columns))]
-column_aggregation = dict(zip(columns,init_zeros))
-print(column_aggregation)
+init_list = [[] for i in range(len(columns))]
+column_aggregation = dict(zip(columns,init_list))
+#print(column_aggregation)
 
 #aggregate data
-#for row in shitty_data_frame:
-    #for dict in row:
+#unpacks each dictionary and puts values into categorized lists
+for row in shitty_data_frame:
+    for key in row:
+        column_aggregation[key].append(row[key])
+
+#print(column_aggregation)
+
+### convert string values to numerical data type
 
 
 
