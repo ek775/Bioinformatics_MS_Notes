@@ -1,0 +1,10 @@
+METHODS
+######################################################################
+In order to perform descriptive statistics on data stored in a CSV file, the data was read from the file and stored in a python list line by line using the DictReader utility. This allows the data to be parsed and aggregated into a new dictionary structure containing the data for each column indexed by the column names - not unlike a pandas dataframe. Once the data has been structured in this manner, a series of operations can be carried out on data in each column to compute descriptive statistics for each gene. To ensure mathematical precision, the decimal.Decimal type was used when passing raw values between functions. The DictReader also read the values in the microarray data in as strings, which required conversion for mathematical operations. The resulting statistics were placed in a second, nested dictionary (similar to a JSON file) and printed to the terminal in this state.
+
+
+
+
+DISCUSSION
+######################################################################
+For comparison, I generated the exact same statistics using Pandas in a Jupyter Notebook to ensure my calculations were accurate and I was not producing silent errors. Instructions from class explicitly forbid the use of these packages, so the code I did produce was much more complicated than the 2 lines of code I had to write in the notebook. However, the advantage to computing these values as instructed is that they are much more easily persisted and can be fed into other programs as machine readable data. On the other hand, if you're simply trying to generate descriptive statistics for human consumption Pandas will be substantially faster, easier to read, and will be easily reproducible with fewer possibilities for error. Because I chose to place the values in a nested dictionary, in the event we needed to persist this data as a JSON file, the values would simply need to be converted from the arithmetically precise Decimal type to a floating point number. Specific values are also easily accessible in a nested dictionary as opposed to a list-like structure.
