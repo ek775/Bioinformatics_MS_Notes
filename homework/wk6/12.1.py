@@ -14,7 +14,7 @@ Which amino-acids show the biggest difference in frequency?
 """
 
 # import required packages
-import Bio.SeqIO as bio
+from Bio import SeqIO
 import sys
 import gzip
 
@@ -36,28 +36,35 @@ def file_type(file_path):
     else:
         final_extension = extensions[-1]
     # map extension name to parser argument
-    matching_parser = {"fasta":"fasta"
-                       "xml":"uniprot-xml"} # add others as needed
+    matching_parser = {"fasta":"fasta", "xml":"uniprot-xml"} # add others as needed
     return matching_parser[final_extension]
 
-# load and parse files
+# loading and parsing files - extracting sequences only to save memory
 proteome_dict = {}
-for i, file_path in enumerate(sys.argv):
+for i, file_path in enumerate(sys.argv[1:], start=1):
     file_name = file_path.split("/")[-1]
     extensions = file_name.split(".")
+    # fasta files must be read in text mode
+    mode = "r"
+    if file_type(file_path)=="fasta":
+        mode = "rt"
     # if compressed
     if extensions[-1]=="gz":
-        proteome_dict[f"file_{i}":[record.seq for record in "parser.gz"]]
-    # if uncompressed
+        # use file_type function above to identify correct parser
+        # creates list of sequence strings and stores in dictionary based on files passed to program
+        proteome_dict[f"file_{i}"] = [record.seq for record in SeqIO.parse(gzip.open(file_path, mode=mode), file_type(file_path))]
+    # if extracted
     else:
-        proteome_dict[f"file_{i}":[record.seq for record in "parser"]]
-
-# extract sequences and store in list
+        # same as above but using normal open instead of gzip
+        proteome_dict[f"file_{i}"] = [record.seq for record in SeqIO.parse(open(file_path, mode=mode), file_type(file_path))]
 
 ########################################################################################################
 # AGGREGATE & COUNT AA FREQUENCIES
 ########################################################################################################
 
+# concatenate AAs into single large string
+for proteome, seq_list in proteome_dict:
+    proteome_dict[proteome] = "".join(seq_list)
 
 
 ########################################################################################################
