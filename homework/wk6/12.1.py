@@ -84,10 +84,11 @@ if len(frequency_dict)<=1:
     print(frequency_dict["file_1"])
     print()
     # most and least common amino acid
-    most_common = max(frequency_dict["file_1"].values())
-    least_common = min(frequency_dict["file_1"].values())
-    print(f"Most Common AA: {most_common}")
-    print(f"Least Common AA: {least_common}")
+    # list comp indexes back into dict to pull out the AA letter associated with max/min
+    most_common = [i for i,m in frequency_dict["file_1"].items() if m==max(frequency_dict["file_1"].values())]
+    least_common = [i for i,m in frequency_dict["file_1"].items() if m==min(frequency_dict["file_1"].values())]
+    print(f"Most Common AA: {most_common[0]}")
+    print(f"Least Common AA: {least_common[0]}")
     exit(0) #stop here
 
 else:
