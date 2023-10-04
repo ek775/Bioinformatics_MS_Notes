@@ -15,6 +15,8 @@ Which amino-acids show the biggest difference in frequency?
 
 # import required packages
 from Bio import SeqIO
+from Bio.SeqUtils.ProtParam import ProteinAnalysis
+from statistics import mean
 import sys
 import gzip
 
@@ -52,23 +54,67 @@ for i, file_path in enumerate(sys.argv[1:], start=1):
     if extensions[-1]=="gz":
         # use file_type function above to identify correct parser
         # creates list of sequence strings and stores in dictionary based on files passed to program
-        proteome_dict[f"file_{i}"] = [record.seq for record in SeqIO.parse(gzip.open(file_path, mode=mode), file_type(file_path))]
+        # added string force and upper to resolve type errors and case errors during stats below
+        proteome_dict[f"file_{i}"] = [str(record.seq).upper() for record in SeqIO.parse(gzip.open(file_path, mode=mode), file_type(file_path))]
     # if extracted
     else:
         # same as above but using normal open instead of gzip
-        proteome_dict[f"file_{i}"] = [record.seq for record in SeqIO.parse(open(file_path, mode=mode), file_type(file_path))]
+        proteome_dict[f"file_{i}"] = [str(record.seq).upper() for record in SeqIO.parse(open(file_path, mode=mode), file_type(file_path))]
 
 ########################################################################################################
 # AGGREGATE & COUNT AA FREQUENCIES
 ########################################################################################################
 
 # concatenate AAs into single large string
-for proteome, seq_list in proteome_dict:
+frequency_dict = {}
+for proteome, seq_list in proteome_dict.items():
     proteome_dict[proteome] = "".join(seq_list)
-
+    # initialize Protein Analysis Object
+    C = ProteinAnalysis(proteome_dict[proteome])
+    # Calculate AA Frequency
+    frequency_dict[proteome] = C.get_amino_acids_percent()
 
 ########################################################################################################
 # COMPARE FREQUENCIES
 ########################################################################################################
 
+# if only one file passed to the script
+if len(frequency_dict)<=1:
+    print("Amino Acid Frequencies in the Given Proteome:")
+    print(frequency_dict["file_1"])
+    exit(0) #stop here
 
+else:
+    # initialize the final dataframe-like structure for comparison (dict x list)
+    comparison_dict = {}
+    for amino_acid, freq in frequency_dict["file_1"].items():
+        comparison_dict[amino_acid] = [freq]
+
+    # append other frequencies
+    for proteome in frequency_dict:
+        for amino_acid in proteome:
+            comparison_dict[amino_acid].append(proteome[amino_acid])
+            ### Note that this approach will cause issues if an AA is found that is not in the 1st file
+            ### for some reason. This is unlikely, but we're not working with actual dataframe
+            ### structures at this point and without OOP there is not a very efficient way to create a 
+            ### new column correctly.
+    
+    # calculate some descriptive stats
+    stats_dict = {}
+    for amino_acid in comparison_dict:
+        # returns index of the maximum value so we know which proteome is max/min for the AA
+        max = [(i+1,x) for i,x in enumerate(amino_acid) if x==max(amino_acid)]
+        min = [(i+1,x) for i,x in enumerate(amino_acid) if x==min(amino_acid)]
+        avg = mean(amino_acid)
+        # store in nested dictionary
+        stats_dict[amino_acid] = {"Max":max[0],
+                                  "Min":min[0],
+                                  "Mean":avg}
+    
+    # send results to terminal
+    print("FREQUENCIES:")
+    print(comparison_dict)
+    print()
+    print("DESCRIPTIVE STATISTICS:")
+    print(stats_dict)
+    exit(0) #stop here
