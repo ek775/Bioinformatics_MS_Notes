@@ -54,12 +54,12 @@ for i, file_path in enumerate(sys.argv[1:], start=1):
     if extensions[-1]=="gz":
         # use file_type function above to identify correct parser
         # creates list of sequence strings and stores in dictionary based on files passed to program
-        # added string force and upper to resolve type errors and case errors during stats below
-        proteome_dict[f"file_{i}"] = [str(record.seq).upper() for record in SeqIO.parse(gzip.open(file_path, mode=mode), file_type(file_path))]
+        # added string force to resolve type errors during stats below
+        proteome_dict[f"file_{i}"] = [str(record.seq) for record in SeqIO.parse(gzip.open(file_path, mode=mode), file_type(file_path))]
     # if extracted
     else:
         # same as above but using normal open instead of gzip
-        proteome_dict[f"file_{i}"] = [str(record.seq).upper() for record in SeqIO.parse(open(file_path, mode=mode), file_type(file_path))]
+        proteome_dict[f"file_{i}"] = [str(record.seq) for record in SeqIO.parse(open(file_path, mode=mode), file_type(file_path))]
 
 ########################################################################################################
 # AGGREGATE & COUNT AA FREQUENCIES
@@ -82,18 +82,24 @@ for proteome, seq_list in proteome_dict.items():
 if len(frequency_dict)<=1:
     print("Amino Acid Frequencies in the Given Proteome:")
     print(frequency_dict["file_1"])
+    print()
+    # most and least common amino acid
+    most_common = max(frequency_dict["file_1"].values())
+    least_common = min(frequency_dict["file_1"].values())
+    print(f"Most Common AA: {most_common}")
+    print(f"Least Common AA: {least_common}")
     exit(0) #stop here
 
 else:
     # initialize the final dataframe-like structure for comparison (dict x list)
     comparison_dict = {}
-    for amino_acid, freq in frequency_dict["file_1"].items():
-        comparison_dict[amino_acid] = [freq]
+    for amino_acid in frequency_dict["file_1"]:
+        comparison_dict[amino_acid] = []
 
-    # append other frequencies
+    # append frequencies
     for proteome in frequency_dict:
-        for amino_acid in proteome:
-            comparison_dict[amino_acid].append(proteome[amino_acid])
+        for amino_acid, freq in frequency_dict[proteome].items():
+            comparison_dict[amino_acid].append(freq)
             ### Note that this approach will cause issues if an AA is found that is not in the 1st file
             ### for some reason. This is unlikely, but we're not working with actual dataframe
             ### structures at this point and without OOP there is not a very efficient way to create a 
@@ -101,14 +107,14 @@ else:
     
     # calculate some descriptive stats
     stats_dict = {}
-    for amino_acid in comparison_dict:
+    for amino_acid, freqs in comparison_dict.items():
         # returns index of the maximum value so we know which proteome is max/min for the AA
-        max = [(i+1,x) for i,x in enumerate(amino_acid) if x==max(amino_acid)]
-        min = [(i+1,x) for i,x in enumerate(amino_acid) if x==min(amino_acid)]
-        avg = mean(amino_acid)
+        maximum = [(i+1,x) for i,x in enumerate(freqs) if x==max(freqs)]
+        minimum = [(i+1,x) for i,x in enumerate(freqs) if x==min(freqs)]
+        avg = mean(freqs)
         # store in nested dictionary
-        stats_dict[amino_acid] = {"Max":max[0],
-                                  "Min":min[0],
+        stats_dict[amino_acid] = {"Max":maximum[0],
+                                  "Min":minimum[0],
                                   "Mean":avg}
     
     # send results to terminal
