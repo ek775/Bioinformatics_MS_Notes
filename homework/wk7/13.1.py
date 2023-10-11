@@ -67,8 +67,6 @@ for pileup in bf.pileup():
         if not pileupread.query_position:
             continue
         readbase = al.seq[pileupread.query_position]
-        if sorted(counts.values())[-2] < 10:
-            continue
         # count the number of each base
         if readbase not in counts:
             counts[readbase] = 0
