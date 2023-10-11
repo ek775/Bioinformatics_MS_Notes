@@ -42,7 +42,7 @@ for pileup in bf.pileup():
                                        "bases":[(base,counts[base]) for base in sorted(counts)]
                                        }
 
-print(dict(list(refseq_snp_cdf.items()[0:10])))
+print(dict(list(refseq_snp_cdf.items())[0:10]))
 
 ### WITH SLIDE 20
 
@@ -81,7 +81,7 @@ for pileup in bf.pileup():
                                        "bases":[(base,counts[base]) for base in sorted(counts)]
                                        }
 
-print(dict(list(refseq_snp_cdf_w_qc.items()[0:10])))
+print(dict(list(refseq_snp_cdf_w_qc.items())[0:10]))
 
 #documenting the nested dictionary's expected format
 """
