@@ -7,10 +7,15 @@ Apply the program of slide 19 to 10_Normal_Chr21.bam and find the locus with:
     Does the highest coverage heterozygous locus and its read counts change? If so, how?
 """
 
+### command line utility
+import sys
+
+file = sys.argv[1]
+
 ### FROM SLIDE 19
 
 import pysam
-bf = pysam.Samfile('10_Normal_Chr21.bam')
+bf = pysam.Samfile(file)
 
 # For every position in the reference
 for pileup in bf.pileup('21'):
