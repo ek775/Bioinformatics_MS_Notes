@@ -51,21 +51,21 @@ for pileup in bf.pileup():
     for pileupread in pileup.pileups:
         # check the read and alignment
         if pileupread.indel:
-            continue
+            break
         if pileupread.is_del:
-            continue
+            break
         al = pileupread.alignment
         if al.is_unmapped:
-            continue
+            break
         if al.is_secondary:
-            continue
+            break
         if int(al.opt("NM"))>1:
-            continue
+            break
         if int(al.opt("NH"))>1:
-            continue
+            break
         # and get the read-base
         if not pileupread.query_position:
-            continue
+            break
         readbase = al.seq[pileupread.query_position]
         # count the number of each base
         if readbase not in counts:
