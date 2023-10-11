@@ -12,10 +12,14 @@ import sys
 
 file = sys.argv[1]
 
-### FROM SLIDE 19
+### ADAPTED FROM SLIDE 19
 
 import pysam
 bf = pysam.AlignmentFile(file, "rb")
+
+# creating data structures to persist the alignment CDF created below for analysis
+refseq_snp_cdf = {}
+refseq_snp_cdf_w_qc = {}
 
 # For every position in the reference
 for pileup in bf.pileup():
@@ -29,16 +33,85 @@ for pileup in bf.pileup():
         # count the number of each base
         if readbase not in counts:
             counts[readbase] = 0
+        counts[readbase] += 1
+    # if there is no variation, move on
+    if len(counts) < 2:
+        continue
+    # if SNP at this position, add this information to the nested analysis dict
+    refseq_snp_cdf[f'{pileup.pos}'] = {"density":pileup.n
+                                       "bases":[(base,counts[base]) for base in sorted(counts)]
+                                       }
+
+### WITH SLIDE 20
+
+# For every position in the reference
+for pileup in bf.pileup():
+    counts = {}
+    # examine every aligned read
+    for pileupread in pileup.pileups:
+        # check the read and alignment
+        if pileupread.indel:
+            continue
+        if pileupread.is_del:
+            continue
+        al = pileupread.alignment
+        if al.is_unmapped:
+            continue
+        if al.is_secondary:
+            continue
+        if int(al.opt("NM"))>1:
+            continue
+        if int(al.opt("NH"))>1:
+            continue
+        # and get the read-base
+        if not pileupread.query_position:
+            continue
+        readbase = al.seq[pileupread.query_position]
+        if sorted(counts.values())[-2] < 10:
+            continue
+        # count the number of each base
+        if readbase not in counts:
             counts[readbase] = 0
         counts[readbase] += 1
     # if there is no variation, move on
     if len(counts) < 2:
         continue
-    # otherwise, output the position, coverage and base counts
-    print(pileup.pos, pileup.n, end=" ")
-    for base in sorted(counts):
-        print(base,counts[base], end=" ")
-    print()
+    # if SNP at this position, add this information to the nested analysis dict
+    refseq_snp_cdf_w_qc[f'{pileup.pos}'] = {"density":pileup.n
+                                       "bases":[(base,counts[base]) for base in sorted(counts)]
+                                       }
 
+#documenting the nested dictionary's expected format
+"""
+Nested Dict Format:
 
+refseq_snp_cdf = 
+{
+position(n):
+    {
+    "density": (number of reads aligned with position(n).)
+    "bases": [(base, no. of occurences at position), etc. in descending order]
+    }
+}
+"""
 
+#defining results function to return the results before/after QC
+def results(my_huge_dict):
+    """takes my_huge_dict and gives you the location with the highest coverage"""
+    result = 0 
+    position = None
+    for big_load in my_huge_dict:
+        if my_huge_dict[big_load]["density"] >= result:
+            result = my_huge_dict[big_load]["density"]
+            position = big_load
+            other_info = my_huge_dict[big_load]["bases"]
+        else:
+            continue
+    return (position, result, other_info)
+
+# print results
+print("Highest Read Density Position (No QC):")
+print(results(refseq_snp_cdf))
+print("**************************************")
+print("Highest Read Density Position (W/QC):")
+print(results(refseq_snp_cdf_w_qc))
