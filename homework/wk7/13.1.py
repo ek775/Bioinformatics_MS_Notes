@@ -18,7 +18,7 @@ import pysam
 bf = pysam.AlignmentFile(file, "rb")
 
 # For every position in the reference
-for pileup in bf.pileup('some_alignment'):
+for pileup in bf.pileup():
     counts = {}
     # examine every aligned read
     for pileupread in pileup.pileups:
