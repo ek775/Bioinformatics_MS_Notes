@@ -38,7 +38,7 @@ for pileup in bf.pileup():
     if len(counts) < 2:
         continue
     # if SNP at this position, add this information to the nested analysis dict
-    refseq_snp_cdf[f'{pileup.pos}'] = {"density":pileup.n
+    refseq_snp_cdf[f'{pileup.pos}'] = {"density":pileup.n,
                                        "bases":[(base,counts[base]) for base in sorted(counts)]
                                        }
 
@@ -77,7 +77,7 @@ for pileup in bf.pileup():
     if len(counts) < 2:
         continue
     # if SNP at this position, add this information to the nested analysis dict
-    refseq_snp_cdf_w_qc[f'{pileup.pos}'] = {"density":pileup.n
+    refseq_snp_cdf_w_qc[f'{pileup.pos}'] = {"density":pileup.n,
                                        "bases":[(base,counts[base]) for base in sorted(counts)]
                                        }
 
