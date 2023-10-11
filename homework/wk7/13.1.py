@@ -15,10 +15,10 @@ file = sys.argv[1]
 ### FROM SLIDE 19
 
 import pysam
-bf = pysam.Samfile(file)
+bf = pysam.AlignmentFile(file, "rb")
 
 # For every position in the reference
-for pileup in bf.pileup('21'):
+for pileup in bf.pileup('some_alignment'):
     counts = {}
     # examine every aligned read
     for pileupread in pileup.pileups:
