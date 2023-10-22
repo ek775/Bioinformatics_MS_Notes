@@ -13,3 +13,7 @@ Your program should handle DNA sequence with N’s in it.
 |--MyDNAStuff.py
 |--codon_table.py
 """
+from codon_table import *
+
+print(read_codons_from_filename.__doc__)
+
