@@ -47,7 +47,7 @@ def is_init(translation_table, codon):
     """reads codon table (start, stop, neutral) value and returns True/False if given codon is/is not a start codon"""
     start = translation_table[codon][1]
     t = False
-    if start == "start":
+    if start == "M":
         t = True
     else:
         t = False
@@ -83,5 +83,5 @@ def translate(translation_table, seq, frame=1):
             continue
         else:
             residue = translation_table.get(codon, get_ambig_AA(translation_table, codon))
-            peptide.append(residue)
-    return peptide
+            peptide.append(residue[0])
+    return ''.join(peptide)
