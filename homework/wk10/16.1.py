@@ -24,12 +24,12 @@ import sys
 try:
     table = read_codons_from_filename(sys.argv[1])
 except:
-    print("1st argument is not an ncbi codon table")
+    print("1st argument must be an ncbi codon table")
     exit(1)
 try:
     seq = read_seq_from_filename(sys.argv[2])
 except:
-    print("2nd argument is not a sequence file")
+    print("2nd argument must be a sequence file")
     exit(1)
 
 # translate sequence
