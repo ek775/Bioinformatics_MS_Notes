@@ -1,0 +1,1677 @@
+LOCUS       NP_001393649            3401 aa            linear   PRI 22-OCT-2023
+DEFINITION  breast cancer type 2 susceptibility protein isoform 2 [Homo
+            sapiens].
+ACCESSION   NP_001393649
+VERSION     NP_001393649.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+DBSOURCE    REFSEQ: accession NM_001406720.1
+REFERENCE   1  (residues 1 to 3401)
+  AUTHORS   Rein HL and Bernstein KA.
+  TITLE     Finding significance: New perspectives in variant classification of
+            the RAD51 regulators, BRCA2 and beyond
+  JOURNAL   DNA Repair (Amst) 130, 103563 (2023)
+   PUBMED   37651978
+  REMARK    GeneRIF: Finding significance: New perspectives in variant
+            classification of the RAD51 regulators, BRCA2 and beyond. Review
+            article
+REFERENCE   2  (residues 1 to 3401)
+  AUTHORS   Mohammed Ali SH, Abid Mohammed KI, Ali WM, Al-Fakhar SA, Al-Alwany
+            SHM and Mousa JM.
+  TITLE     Immunohistochemical Detection of the Expressed BRCA1 and BRCA2
+            Proteins in Microenvironment of Malignant Breast Cancerous Tissues
+            Infected with Human Mammary Tumor Virus
+  JOURNAL   Asian Pac J Cancer Prev 24 (9), 3261-3267 (2023)
+   PUBMED   37774080
+  REMARK    GeneRIF: Immunohistochemical Detection of the Expressed BRCA1 and
+            BRCA2 Proteins in Microenvironment of Malignant Breast Cancerous
+            Tissues Infected with Human Mammary Tumor Virus. Publication Status:
+            Online-Only
+REFERENCE   3  (residues 1 to 3401)
+  AUTHORS   Wilcox N, Dumont M, Gonzalez-Neira A, Carvalho S, Joly Beauparlant
+            C, Crotti M, Luccarini C, Soucy P, Dubois S, Nunez-Torres R, Pita G,
+            Gardner EJ, Dennis J, Alonso MR, Alvarez N, Baynes C,
+            Collin-Deschesnes AC, Desjardins S, Becher H, Behrens S, Bolla MK,
+            Castelao JE, Chang-Claude J, Cornelissen S, Dork T, Engel C,
+            Gago-Dominguez M, Guenel P, Hadjisavvas A, Hahnen E, Hartman M,
+            Herraez B, Jung A, Keeman R, Kiechle M, Li J, Loizidou MA, Lush M,
+            Michailidou K, Panayiotidis MI, Sim X, Teo SH, Tyrer JP, van der
+            Kolk LE, Wahlstrom C, Wang Q, Perry JRB, Benitez J, Schmidt MK,
+            Schmutzler RK, Pharoah PDP, Droit A, Dunning AM, Kvist A, Devilee P,
+            Easton DF and Simard J.
+  CONSRTM   SGBCC Investigators
+  TITLE     Exome sequencing identifies breast cancer susceptibility genes and
+            defines the contribution of coding variants to breast cancer risk
+  JOURNAL   Nat Genet 55 (9), 1435-1439 (2023)
+   PUBMED   37592023
+  REMARK    GeneRIF: Exome sequencing identifies breast cancer susceptibility
+            genes and defines the contribution of coding variants to breast
+            cancer risk. Erratum:[Nat Genet. 2023 Sep 26;:. PMID: 37752376]
+REFERENCE   4  (residues 1 to 3401)
+  AUTHORS   Setton J, Hadi K, Choo ZN, Kuchin KS, Tian H, Da Cruz Paula A,
+            Rosiene J, Selenica P, Behr J, Yao X, Deshpande A, Sigouros M,
+            Manohar J, Nauseef JT, Mosquera JM, Elemento O, Weigelt B, Riaz N,
+            Reis-Filho JS, Powell SN and Imielinski M.
+  TITLE     Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers
+  JOURNAL   Nature 621 (7977), 129-137 (2023)
+   PUBMED   37587346
+  REMARK    GeneRIF: Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers.
+REFERENCE   5  (residues 1 to 3401)
+  AUTHORS   Whitney M, Thayer M, Reifsteck C, Olson S, Smith L, Jakobs PM, Leach
+            R, Naylor S, Joenje H and Grompe M.
+  TITLE     Microcell mediated chromosome transfer maps the Fanconi anaemia
+            group D gene to chromosome 3p
+  JOURNAL   Nat Genet 11 (3), 341-343 (1995)
+   PUBMED   7581463
+REFERENCE   6  (residues 1 to 3401)
+  AUTHORS   Schutte M, da Costa LT, Hahn SA, Moskaluk C, Hoque AT, Rozenblum E,
+            Weinstein CL, Bittner M, Meltzer PS, Trent JM et al.
+  TITLE     Identification by representational difference analysis of a
+            homozygous deletion in pancreatic carcinoma that lies within the
+            BRCA2 region
+  JOURNAL   Proc Natl Acad Sci U S A 92 (13), 5950-5954 (1995)
+   PUBMED   7597059
+REFERENCE   7  (residues 1 to 3401)
+  AUTHORS   Mehta,P.A. and Ebens,C.
+  TITLE     Fanconi Anemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301575
+REFERENCE   8  (residues 1 to 3401)
+  AUTHORS   Turner,J.T., Brzezinski,J. and Dome,J.S.
+  TITLE     Wilms Tumor Predisposition
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301471
+REFERENCE   9  (residues 1 to 3401)
+  AUTHORS   Petrucelli,N., Daly,M.B. and Pal,T.
+  TITLE     BRCA1- and BRCA2-Associated Hereditary Breast and Ovarian Cancer
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301425
+REFERENCE   10  (residues 1 to 3401)
+  AUTHORS   Watson,C.G.
+  TITLE     The life of a resolution--how ADA policy is made
+  JOURNAL   J Conf Workshop, 14-23 (1975)
+   PUBMED   1072445
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038194.4125333.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1968968,
+            SAMEA2149876 [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL445212.9 and AL137247.14.
+            Summary: Inherited mutations in BRCA1 and this gene, BRCA2, confer
+            increased lifetime risk of developing breast or ovarian cancer.
+            Both BRCA1 and BRCA2 are involved in maintenance of genome
+            stability, specifically the homologous recombination pathway for
+            double-strand DNA repair. The largest exon in both genes is exon
+            11, which harbors the most important and frequent mutations in
+            breast cancer patients. The BRCA2 gene was found on chromosome
+            13q12.3 in human. The BRCA2 protein contains several copies of a 70
+            aa motif called the BRC motif, and these motifs mediate binding to
+            the RAD51 recombinase which functions in DNA repair. BRCA2 is
+            considered a tumor suppressor gene, as tumors with BRCA2 mutations
+            generally exhibit loss of heterozygosity (LOH) of the wild-type
+            allele. [provided by RefSeq, May 2020].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..3401
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q13.1"
+     Protein         1..3401
+                     /product="breast cancer type 2 susceptibility protein
+                     isoform 2"
+                     /note="BRCA1/BRCA2-containing complex, subunit 2; breast
+                     cancer type 2 susceptibility protein; DNA repair-associated
+                     BRCA2; breast cancer 2 tumor suppressor; breast and ovarian
+                     cancer susceptibility gene, early onset; Fanconi anemia
+                     group D1 protein; breast and ovarian cancer susceptibility
+                     protein 2; breast cancer 2, early onset; mutant BRCA2;
+                     mutant DNA repair-associated protein 2"
+                     /calculated_mol_wt="382156"
+     Region          1..40
+                     /region_name="Interaction with PALB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          37..68
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            70
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          358..381
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            445
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            492
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          639..1000
+                     /region_name="Interaction with NPM1.
+                     /evidence=ECO:0000269|PubMed:21084279"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            755
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17525332; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1002..1036
+                     /region_name="BRCA2 1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1003..2082
+                     /region_name="Interaction with RAD51.
+                     /evidence=ECO:0000250|UniProtKB:P97929"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1005..1033
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1216..1243
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1338..1781
+                     /region_name="Interaction with POLH.
+                     /evidence=ECO:0000269|PubMed:24485656"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1410..1595
+                     /region_name="Required for stimulation of POLH DNA
+                     polymerization activity"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1424..1452
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1522..1548
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1667..1695
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Site            1970
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1974..2002
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Site            2035
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2051..2085
+                     /region_name="BRCA2 8"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2055..2082
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Site            2095
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2270..2337
+                     /region_name="Interaction with HSF2BP.
+                     /evidence=ECO:0000269|PubMed:31242413"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2350..2545
+                     /region_name="Interaction with FANCD2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2430..2450
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2481..2832
+                     /region_name="Interaction with SEM1.
+                     /evidence=ECO:0000269|PubMed:10373512,
+                     ECO:0000269|PubMed:16205630"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2481..2667
+                     /region_name="BRCA-2_helical"
+                     /note="BRCA2, helical; pfam09169"
+                     /db_xref="CDD:430446"
+     Region          2670..2796
+                     /region_name="BRCA-2_OB1"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 1; pfam09103"
+                     /db_xref="CDD:430410"
+     Region          2682..2698
+                     /region_name="Nuclear export signal, masked by interaction
+                     with SEM1. /evidence=ECO:0000269|PubMed:24013206"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            order(2690..2692,2718..2721,2723,2729..2731,2733,2749,
+                     2757..2759,2775..2777)
+                     /site_type="active"
+                     /note="generic binding surface I [active]"
+                     /db_xref="CDD:239939"
+     Site            order(2725,2736,2739,2744,2747,2750,2782..2785,2787..2788,
+                     2791..2792)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239939"
+     Region          2804..3037
+                     /region_name="BRCA2DBD_OB2"
+                     /note="A subfamily of OB folds corresponding to the second
+                     OB fold (OB2) of the 800-amino acid C-terminal ssDNA
+                     binding domain (DBD) of BRCA2 (breast cancer susceptibility
+                     gene 2) protein, called BRCA2DBD. BRCA2 participates in
+                     homologous recombination-mediated...; cd04494"
+                     /db_xref="CDD:239940"
+     Site            order(2808..2809,2811..2814,2816)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239940"
+     Site            order(2826..2827,2829,2841,2846,2973,3033,3035..3037)
+                     /site_type="other"
+                     /note="OB2/OB3 interface [polypeptide binding]"
+                     /db_xref="CDD:239940"
+     Region          3035..3169
+                     /region_name="BRCA-2_OB3"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 3; pfam09104"
+                     /db_xref="CDD:430411"
+     Site            order(3056,3102,3104,3106,3130)
+                     /site_type="active"
+                     /note="generic binding surface II [active]"
+                     /db_xref="CDD:239941"
+     Site            order(3069..3071,3111,3122,3124..3125)
+                     /site_type="other"
+                     /note="ssDNA binding site [nucleotide binding]"
+                     /db_xref="CDD:239941"
+     Site            3274
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine, by CDK1 and CDK2.
+                     /evidence=ECO:0000269|PubMed:15800615; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            3302
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            3370
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine, by CHEK1 and CHEK2.
+                     /evidence=ECO:0000269|PubMed:18317453; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          3376..3401
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     CDS             1..3401
+                     /gene="BRCA2"
+                     /gene_synonym="BRCC2; BROVCA2; FACD; FAD; FAD1; FANCD;
+                     FANCD1; GLM3; PNCA2; XRCC11"
+                     /coded_by="NM_001406720.1:200..10405"
+                     /note="isoform 2 is encoded by transcript variant 2"
+                     /db_xref="GeneID:675"
+                     /db_xref="HGNC:HGNC:1101"
+                     /db_xref="MIM:600185"
+ORIGIN
+        1 mpigskerpt ffeifktrcn kadlgpisln wfeelsseap pynsepaees ehknnnyepn
+       61 lfktpqrkps ynqlastpii fkeqgltlpl yqspvkeldk fkldlgrnvp nsrhkslrtv
+      121 ktkmdqaddv scpllnscls espvvlqcth vtpqrdksvv cgslfhtpkf vkgrqtpkhi
+      181 seslgaevdp dmswssslat pptlsstvli vrneeasetv fphdttanvk syfsnhdesl
+      241 kkndrfiasv tdsentnqre aashgfgkts gnsfkvnsck dhigksmpnv ledevyetvv
+      301 dtseedsfsl cfskcrtknl qkvrtsktrk kifheanade ceksknqvke kysfvsevep
+      361 ndtdpldsnv anqkpfesgs dkiskevvps lacewsqltl sglngaqmek ipllhisscd
+      421 qnisekdlld tenkrkkdfl tsenslpris slpksekpln eetvvnkrde eqhleshtdc
+      481 ilavkqaisg tspvassfqg ikksifrire spketfnasf sghmtdpnfk keteasesgl
+      541 eihtvcsqke dslcpnlidn gswpatttqn svalknagli stlkkktnkf iyaihdetsy
+      601 kgkkipkdqk selincsaqf eanafeaplt fanadsgllh ssvkrscsqn dseeptlslt
+      661 ssfgtilrkc srnetcsnnt visqdldyke akcnkeklql fitpeadsls clqegqcend
+      721 pkskkvsdik eevlaaachp vqhskveysd tdfqsqksll ydhenastli ltptskdvls
+      781 nlvmisrgke sykmsdklkg nnyesdvelt knipmeknqd vcalnenykn vellppekym
+      841 rvaspsrkvq fnqntnlrvi qknqeettsi skitvnpdse elfsdnennf vfqvanernn
+      901 lalgntkelh etdltcvnep ifknstmvly gdtgdkqatq vsikkdlvyv laeenknsvk
+      961 qhikmtlgqd lksdislnid kipeknndym nkwagllgpi snhsfggsfr tasnkeikls
+     1021 ehnikkskmf fkdieeqypt slacveivnt laldnqkkls kpqsintvsa hlqssvvvsd
+     1081 cknshitpqm lfskqdfnsn hnltpsqkae itelstilee sgsqfeftqf rkpsyilqks
+     1141 tfevpenqmt ilkttseecr dadlhvimna psigqvdssk qfegtveikr kfagllkndc
+     1201 nksasgyltd enevgfrgfy sahgtklnvs tealqkavkl fsdienisee tsaevhpisl
+     1261 ssskchdsvv smfkienhnd ktvseknnkc qlilqnniem ttgtfveeit enykrntene
+     1321 dnkytaasrn shnlefdgsd sskndtvcih kdetdllftd qhniclklsg qfmkegntqi
+     1381 kedlsdltfl evakaqeach gntsnkeqlt atkteqnikd fetsdtffqt asgknisvak
+     1441 esfnkivnff dqkpeelhnf slnselhsdi rknkmdilsy eetdivkhki lkesvpvgtg
+     1501 nqlvtfqgqp erdekikept llgfhtasgk kvkiakesld kvknlfdeke qgtseitsfs
+     1561 hqwaktlkyr eackdlelac etieitaapk ckemqnslnn dknlvsietv vppkllsdnl
+     1621 crqtenlkts ksiflkvkvh enveketaks patcytnqsp ysviensala fytscsrkts
+     1681 vsqtslleak kwlregifdg qperintady vgnylyenns nstiaendkn hlsekqdtyl
+     1741 snssmsnsys yhsdevynds gylsknklds giepvlknve dqkntsfskv isnvkdanay
+     1801 pqtvnedicv eelvtssspc knknaaikls isnsnnfevg ppafriasgk ivcvshetik
+     1861 kvkdiftdsf skvikennen kskicqtkim agcyealdds edilhnsldn decsthshkv
+     1921 fadiqseeil qhnqnmsgle kvskispcdv sletsdickc sigklhksvs santcgifst
+     1981 asgksvqvsd aslqnarqvf seiedstkqv fskvlfksne hsdqltreen tairtpehli
+     2041 sqkgfsynvv nssafsgfst asgkqvsile sslhkvkgvl eefdlirteh slhysptsrq
+     2101 nvskilprvd krnpehcvns emektcskef klsnnlnveg gssennhsik vspylsqfqq
+     2161 dkqqlvlgtk vslvenihvl gkeqaspknv kmeigktetf sdvpvktnie vcstyskdse
+     2221 nyfeteavei akafmeddel tdsklpshat hslftcpene emvlsnsrig krrgeplilv
+     2281 gepsikrnll nefdriienq ekslkaskst pdgtikdrrl fmhhvslepi tcvpfrttke
+     2341 rqeiqnpnft apgqeflsks hlyehltlek sssnlavsgh pfyqvsatrn ekmrhlittg
+     2401 rptkvfvppf ktkshfhrve qcvrninlee nrqkqnidgh gsddsknkin dneihqfnkn
+     2461 nsnqavavtf tkceeepldl itslqnardi qdmrikkkqr qrvfpqpgsl ylaktstlpr
+     2521 islkaavggq vpsacshkql ytygvskhci kinsknaesf qfhtedyfgk eslwtgkgiq
+     2581 ladggwlips ndgkagkeef yralcdtpgv dpklisriwv ynhyrwiiwk laamecafpk
+     2641 efanrclspe rvllqlkyry dteidrsrrs aikkimerdd taaktlvlcv sdiislsani
+     2701 setssnktss adtqkvaiie ltdgwyavka qldppllavl kngrltvgqk iilhgaelvg
+     2761 spdactplea peslmlkisa nstrparwyt klgffpdprp fplplsslfs dggnvgcvdv
+     2821 iiqraypiqw mektssglyi frnereeeke aakyveaqqk rlealftkiq eefeeheent
+     2881 tkpylpsral trqqvralqd gaelyeavkn aadpaylegy fseeqlraln nhrqmlndkk
+     2941 qaqiqleirk amesaeqkeq glsrdvttvw klrivsyskk ekdsegkryr iyhlatsksk
+     3001 skseraniql aatkktqyqq lpvsdeilfq iyqpreplhf skfldpdfqp scsevdligf
+     3061 vvsvvkktgl apfvylsdec ynllaikfwi dlnediikph mliaasnlqw rpesksgllt
+     3121 lfagdfsvfs aspkeghfqe tfnkmkntve nidilcneae nklmhilhan dpkwstptkd
+     3181 ctsgpytaqi ipgtgnkllm sspnceiyyq splslcmakr ksvstpvsaq mtsksckgek
+     3241 eiddqknckk rraldflsrl plpppvspic tfvspaaqka fqpprscgtk yetpikkkel
+     3301 nspqmtpfkk fneisllesn siadeelali ntqallsgst gekqfisvse strtaptsse
+     3361 dylrlkrrct tslikeqess qasteecekn kqdtittkky i
+//
+LOCUS       NP_001393650            1774 aa            linear   PRI 22-OCT-2023
+DEFINITION  breast cancer type 2 susceptibility protein isoform 4 [Homo
+            sapiens].
+ACCESSION   NP_001393650
+VERSION     NP_001393650.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+DBSOURCE    REFSEQ: accession NM_001406721.1
+REFERENCE   1  (residues 1 to 1774)
+  AUTHORS   Rein HL and Bernstein KA.
+  TITLE     Finding significance: New perspectives in variant classification of
+            the RAD51 regulators, BRCA2 and beyond
+  JOURNAL   DNA Repair (Amst) 130, 103563 (2023)
+   PUBMED   37651978
+  REMARK    GeneRIF: Finding significance: New perspectives in variant
+            classification of the RAD51 regulators, BRCA2 and beyond. Review
+            article
+REFERENCE   2  (residues 1 to 1774)
+  AUTHORS   Mohammed Ali SH, Abid Mohammed KI, Ali WM, Al-Fakhar SA, Al-Alwany
+            SHM and Mousa JM.
+  TITLE     Immunohistochemical Detection of the Expressed BRCA1 and BRCA2
+            Proteins in Microenvironment of Malignant Breast Cancerous Tissues
+            Infected with Human Mammary Tumor Virus
+  JOURNAL   Asian Pac J Cancer Prev 24 (9), 3261-3267 (2023)
+   PUBMED   37774080
+  REMARK    GeneRIF: Immunohistochemical Detection of the Expressed BRCA1 and
+            BRCA2 Proteins in Microenvironment of Malignant Breast Cancerous
+            Tissues Infected with Human Mammary Tumor Virus. Publication Status:
+            Online-Only
+REFERENCE   3  (residues 1 to 1774)
+  AUTHORS   Wilcox N, Dumont M, Gonzalez-Neira A, Carvalho S, Joly Beauparlant
+            C, Crotti M, Luccarini C, Soucy P, Dubois S, Nunez-Torres R, Pita G,
+            Gardner EJ, Dennis J, Alonso MR, Alvarez N, Baynes C,
+            Collin-Deschesnes AC, Desjardins S, Becher H, Behrens S, Bolla MK,
+            Castelao JE, Chang-Claude J, Cornelissen S, Dork T, Engel C,
+            Gago-Dominguez M, Guenel P, Hadjisavvas A, Hahnen E, Hartman M,
+            Herraez B, Jung A, Keeman R, Kiechle M, Li J, Loizidou MA, Lush M,
+            Michailidou K, Panayiotidis MI, Sim X, Teo SH, Tyrer JP, van der
+            Kolk LE, Wahlstrom C, Wang Q, Perry JRB, Benitez J, Schmidt MK,
+            Schmutzler RK, Pharoah PDP, Droit A, Dunning AM, Kvist A, Devilee P,
+            Easton DF and Simard J.
+  CONSRTM   SGBCC Investigators
+  TITLE     Exome sequencing identifies breast cancer susceptibility genes and
+            defines the contribution of coding variants to breast cancer risk
+  JOURNAL   Nat Genet 55 (9), 1435-1439 (2023)
+   PUBMED   37592023
+  REMARK    GeneRIF: Exome sequencing identifies breast cancer susceptibility
+            genes and defines the contribution of coding variants to breast
+            cancer risk. Erratum:[Nat Genet. 2023 Sep 26;:. PMID: 37752376]
+REFERENCE   4  (residues 1 to 1774)
+  AUTHORS   Setton J, Hadi K, Choo ZN, Kuchin KS, Tian H, Da Cruz Paula A,
+            Rosiene J, Selenica P, Behr J, Yao X, Deshpande A, Sigouros M,
+            Manohar J, Nauseef JT, Mosquera JM, Elemento O, Weigelt B, Riaz N,
+            Reis-Filho JS, Powell SN and Imielinski M.
+  TITLE     Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers
+  JOURNAL   Nature 621 (7977), 129-137 (2023)
+   PUBMED   37587346
+  REMARK    GeneRIF: Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers.
+REFERENCE   5  (residues 1 to 1774)
+  AUTHORS   Whitney M, Thayer M, Reifsteck C, Olson S, Smith L, Jakobs PM, Leach
+            R, Naylor S, Joenje H and Grompe M.
+  TITLE     Microcell mediated chromosome transfer maps the Fanconi anaemia
+            group D gene to chromosome 3p
+  JOURNAL   Nat Genet 11 (3), 341-343 (1995)
+   PUBMED   7581463
+REFERENCE   6  (residues 1 to 1774)
+  AUTHORS   Schutte M, da Costa LT, Hahn SA, Moskaluk C, Hoque AT, Rozenblum E,
+            Weinstein CL, Bittner M, Meltzer PS, Trent JM et al.
+  TITLE     Identification by representational difference analysis of a
+            homozygous deletion in pancreatic carcinoma that lies within the
+            BRCA2 region
+  JOURNAL   Proc Natl Acad Sci U S A 92 (13), 5950-5954 (1995)
+   PUBMED   7597059
+REFERENCE   7  (residues 1 to 1774)
+  AUTHORS   Mehta,P.A. and Ebens,C.
+  TITLE     Fanconi Anemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301575
+REFERENCE   8  (residues 1 to 1774)
+  AUTHORS   Turner,J.T., Brzezinski,J. and Dome,J.S.
+  TITLE     Wilms Tumor Predisposition
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301471
+REFERENCE   9  (residues 1 to 1774)
+  AUTHORS   Petrucelli,N., Daly,M.B. and Pal,T.
+  TITLE     BRCA1- and BRCA2-Associated Hereditary Breast and Ovarian Cancer
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301425
+REFERENCE   10  (residues 1 to 1774)
+  AUTHORS   Watson,C.G.
+  TITLE     The life of a resolution--how ADA policy is made
+  JOURNAL   J Conf Workshop, 14-23 (1975)
+   PUBMED   1072445
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038194.2834890.1,
+            SRR18074967.568273.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA2154529,
+            SAMEA2161674 [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL445212.9 and AL137247.14.
+            Summary: Inherited mutations in BRCA1 and this gene, BRCA2, confer
+            increased lifetime risk of developing breast or ovarian cancer.
+            Both BRCA1 and BRCA2 are involved in maintenance of genome
+            stability, specifically the homologous recombination pathway for
+            double-strand DNA repair. The largest exon in both genes is exon
+            11, which harbors the most important and frequent mutations in
+            breast cancer patients. The BRCA2 gene was found on chromosome
+            13q12.3 in human. The BRCA2 protein contains several copies of a 70
+            aa motif called the BRC motif, and these motifs mediate binding to
+            the RAD51 recombinase which functions in DNA repair. BRCA2 is
+            considered a tumor suppressor gene, as tumors with BRCA2 mutations
+            generally exhibit loss of heterozygosity (LOH) of the wild-type
+            allele. [provided by RefSeq, May 2020].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..1774
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q13.1"
+     Protein         1..1774
+                     /product="breast cancer type 2 susceptibility protein
+                     isoform 4"
+                     /note="BRCA1/BRCA2-containing complex, subunit 2; breast
+                     cancer type 2 susceptibility protein; DNA repair-associated
+                     BRCA2; breast cancer 2 tumor suppressor; breast and ovarian
+                     cancer susceptibility gene, early onset; Fanconi anemia
+                     group D1 protein; breast and ovarian cancer susceptibility
+                     protein 2; breast cancer 2, early onset; mutant BRCA2;
+                     mutant DNA repair-associated protein 2"
+                     /calculated_mol_wt="199894"
+     Region          1..40
+                     /region_name="Interaction with PALB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          37..68
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            70
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          358..381
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            445
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            492
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          837..1023
+                     /region_name="BRCA-2_helical"
+                     /note="BRCA2, helical; pfam09169"
+                     /db_xref="CDD:430446"
+     Region          1026..1152
+                     /region_name="BRCA-2_OB1"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 1; pfam09103"
+                     /db_xref="CDD:430410"
+     Site            order(1046..1048,1074..1077,1079,1085..1087,1089,1105,
+                     1113..1115,1131..1133)
+                     /site_type="active"
+                     /note="generic binding surface I [active]"
+                     /db_xref="CDD:239939"
+     Site            order(1081,1092,1095,1100,1103,1106,1138..1141,1143..1144,
+                     1147..1148)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239939"
+     Region          1160..1410
+                     /region_name="BRCA2DBD_OB2"
+                     /note="A subfamily of OB folds corresponding to the second
+                     OB fold (OB2) of the 800-amino acid C-terminal ssDNA
+                     binding domain (DBD) of BRCA2 (breast cancer susceptibility
+                     gene 2) protein, called BRCA2DBD. BRCA2 participates in
+                     homologous recombination-mediated...; cd04494"
+                     /db_xref="CDD:239940"
+     Site            order(1164..1165,1167..1170,1172)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239940"
+     Site            order(1182..1183,1185,1197,1202,1329,1406,1408..1410)
+                     /site_type="other"
+                     /note="OB2/OB3 interface [polypeptide binding]"
+                     /db_xref="CDD:239940"
+     Site            order(1197,1327,1344,1346..1347,1382,1384)
+                     /site_type="other"
+                     /note="ssDNA binding site [nucleotide binding]"
+                     /db_xref="CDD:239940"
+     Region          1408..1542
+                     /region_name="BRCA-2_OB3"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 3; pfam09104"
+                     /db_xref="CDD:430411"
+     Site            order(1429,1475,1477,1479,1503)
+                     /site_type="active"
+                     /note="generic binding surface II [active]"
+                     /db_xref="CDD:239941"
+     Site            order(1442..1444,1484,1495,1497..1498)
+                     /site_type="other"
+                     /note="ssDNA binding site [nucleotide binding]"
+                     /db_xref="CDD:239941"
+     CDS             1..1774
+                     /gene="BRCA2"
+                     /gene_synonym="BRCC2; BROVCA2; FACD; FAD; FAD1; FANCD;
+                     FANCD1; GLM3; PNCA2; XRCC11"
+                     /coded_by="NM_001406721.1:200..5524"
+                     /note="isoform 4 is encoded by transcript variant 4"
+                     /db_xref="GeneID:675"
+                     /db_xref="HGNC:HGNC:1101"
+                     /db_xref="MIM:600185"
+ORIGIN
+        1 mpigskerpt ffeifktrcn kadlgpisln wfeelsseap pynsepaees ehknnnyepn
+       61 lfktpqrkps ynqlastpii fkeqgltlpl yqspvkeldk fkldlgrnvp nsrhkslrtv
+      121 ktkmdqaddv scpllnscls espvvlqcth vtpqrdksvv cgslfhtpkf vkgrqtpkhi
+      181 seslgaevdp dmswssslat pptlsstvli vrneeasetv fphdttanvk syfsnhdesl
+      241 kkndrfiasv tdsentnqre aashgfgkts gnsfkvnsck dhigksmpnv ledevyetvv
+      301 dtseedsfsl cfskcrtknl qkvrtsktrk kifheanade ceksknqvke kysfvsevep
+      361 ndtdpldsnv anqkpfesgs dkiskevvps lacewsqltl sglngaqmek ipllhisscd
+      421 qnisekdlld tenkrkkdfl tsenslpris slpksekpln eetvvnkrde eqhleshtdc
+      481 ilavkqaisg tspvassfqg ikksifrire spketfnasf sghmtdpnfk keteasesgl
+      541 eihtvcsqke dslcpnlidn gswpatttqn svalknagli stlkkktnkf iyaihdetsy
+      601 kgkkipkdqk selincsaqf eanafeaplt fanadsgeps ikrnllnefd riienqeksl
+      661 kaskstpdgt ikdrrlfmhh vslepitcvp frttkerqei qnpnftapgq eflskshlye
+      721 hltleksssn lavsghpfyq vsatrnekmr hlittgrptk vfvppfktks hfhrveqcvr
+      781 ninleenrqk qnidghgsdd sknkindnei hqfnknnsnq avavtftkce eepldlitsl
+      841 qnardiqdmr ikkkqrqrvf pqpgslylak tstlprislk aavggqvpsa cshkqlytyg
+      901 vskhcikins knaesfqfht edyfgkeslw tgkgiqladg gwlipsndgk agkeefyral
+      961 cdtpgvdpkl isriwvynhy rwiiwklaam ecafpkefan rclspervll qlkyrydtei
+     1021 drsrrsaikk imerddtaak tlvlcvsdii slsanisets snktssadtq kvaiieltdg
+     1081 wyavkaqldp pllavlkngr ltvgqkiilh gaelvgspda ctpleapesl mlkisanstr
+     1141 parwytklgf fpdprpfplp lsslfsdggn vgcvdviiqr aypiqwmekt ssglyifrne
+     1201 reeekeaaky veaqqkrlea lftkiqeefe eheenttkpy lpsraltrqq vralqdgael
+     1261 yeavknaadp aylegyfsee qlralnnhrq mlndkkqaqi qleirkames aeqkeqglsr
+     1321 dvttvwklri vsyskkekds vilsiwrpss dlyslltegk ryriyhlats kskskseran
+     1381 iqlaatkktq yqqlpvsdei lfqiyqprep lhfskfldpd fqpscsevdl igfvvsvvkk
+     1441 tglapfvyls decynllaik fwidlnedii kphmliaasn lqwrpesksg lltlfagdfs
+     1501 vfsaspkegh fqetfnkmkn tvenidilcn eaenklmhil handpkwstp tkdctsgpyt
+     1561 aqiipgtgnk llmsspncei yyqsplslcm akrksvstpv saqmtsksck gekeiddqkn
+     1621 ckkrraldfl srlplpppvs pictfvspaa qkafqpprsc gtkyetpikk kelnspqmtp
+     1681 fkkfneisll esnsiadeel alintqalls gstgekqfis vsestrtapt ssedylrlkr
+     1741 rcttslikeq essqasteec eknkqdtitt kkyi
+//
+LOCUS       NP_001393651            1279 aa            linear   PRI 22-OCT-2023
+DEFINITION  breast cancer type 2 susceptibility protein isoform 5 [Homo
+            sapiens].
+ACCESSION   NP_001393651
+VERSION     NP_001393651.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+DBSOURCE    REFSEQ: accession NM_001406722.1
+REFERENCE   1  (residues 1 to 1279)
+  AUTHORS   Rein HL and Bernstein KA.
+  TITLE     Finding significance: New perspectives in variant classification of
+            the RAD51 regulators, BRCA2 and beyond
+  JOURNAL   DNA Repair (Amst) 130, 103563 (2023)
+   PUBMED   37651978
+  REMARK    GeneRIF: Finding significance: New perspectives in variant
+            classification of the RAD51 regulators, BRCA2 and beyond. Review
+            article
+REFERENCE   2  (residues 1 to 1279)
+  AUTHORS   Mohammed Ali SH, Abid Mohammed KI, Ali WM, Al-Fakhar SA, Al-Alwany
+            SHM and Mousa JM.
+  TITLE     Immunohistochemical Detection of the Expressed BRCA1 and BRCA2
+            Proteins in Microenvironment of Malignant Breast Cancerous Tissues
+            Infected with Human Mammary Tumor Virus
+  JOURNAL   Asian Pac J Cancer Prev 24 (9), 3261-3267 (2023)
+   PUBMED   37774080
+  REMARK    GeneRIF: Immunohistochemical Detection of the Expressed BRCA1 and
+            BRCA2 Proteins in Microenvironment of Malignant Breast Cancerous
+            Tissues Infected with Human Mammary Tumor Virus. Publication Status:
+            Online-Only
+REFERENCE   3  (residues 1 to 1279)
+  AUTHORS   Wilcox N, Dumont M, Gonzalez-Neira A, Carvalho S, Joly Beauparlant
+            C, Crotti M, Luccarini C, Soucy P, Dubois S, Nunez-Torres R, Pita G,
+            Gardner EJ, Dennis J, Alonso MR, Alvarez N, Baynes C,
+            Collin-Deschesnes AC, Desjardins S, Becher H, Behrens S, Bolla MK,
+            Castelao JE, Chang-Claude J, Cornelissen S, Dork T, Engel C,
+            Gago-Dominguez M, Guenel P, Hadjisavvas A, Hahnen E, Hartman M,
+            Herraez B, Jung A, Keeman R, Kiechle M, Li J, Loizidou MA, Lush M,
+            Michailidou K, Panayiotidis MI, Sim X, Teo SH, Tyrer JP, van der
+            Kolk LE, Wahlstrom C, Wang Q, Perry JRB, Benitez J, Schmidt MK,
+            Schmutzler RK, Pharoah PDP, Droit A, Dunning AM, Kvist A, Devilee P,
+            Easton DF and Simard J.
+  CONSRTM   SGBCC Investigators
+  TITLE     Exome sequencing identifies breast cancer susceptibility genes and
+            defines the contribution of coding variants to breast cancer risk
+  JOURNAL   Nat Genet 55 (9), 1435-1439 (2023)
+   PUBMED   37592023
+  REMARK    GeneRIF: Exome sequencing identifies breast cancer susceptibility
+            genes and defines the contribution of coding variants to breast
+            cancer risk. Erratum:[Nat Genet. 2023 Sep 26;:. PMID: 37752376]
+REFERENCE   4  (residues 1 to 1279)
+  AUTHORS   Setton J, Hadi K, Choo ZN, Kuchin KS, Tian H, Da Cruz Paula A,
+            Rosiene J, Selenica P, Behr J, Yao X, Deshpande A, Sigouros M,
+            Manohar J, Nauseef JT, Mosquera JM, Elemento O, Weigelt B, Riaz N,
+            Reis-Filho JS, Powell SN and Imielinski M.
+  TITLE     Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers
+  JOURNAL   Nature 621 (7977), 129-137 (2023)
+   PUBMED   37587346
+  REMARK    GeneRIF: Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers.
+REFERENCE   5  (residues 1 to 1279)
+  AUTHORS   Whitney M, Thayer M, Reifsteck C, Olson S, Smith L, Jakobs PM, Leach
+            R, Naylor S, Joenje H and Grompe M.
+  TITLE     Microcell mediated chromosome transfer maps the Fanconi anaemia
+            group D gene to chromosome 3p
+  JOURNAL   Nat Genet 11 (3), 341-343 (1995)
+   PUBMED   7581463
+REFERENCE   6  (residues 1 to 1279)
+  AUTHORS   Schutte M, da Costa LT, Hahn SA, Moskaluk C, Hoque AT, Rozenblum E,
+            Weinstein CL, Bittner M, Meltzer PS, Trent JM et al.
+  TITLE     Identification by representational difference analysis of a
+            homozygous deletion in pancreatic carcinoma that lies within the
+            BRCA2 region
+  JOURNAL   Proc Natl Acad Sci U S A 92 (13), 5950-5954 (1995)
+   PUBMED   7597059
+REFERENCE   7  (residues 1 to 1279)
+  AUTHORS   Mehta,P.A. and Ebens,C.
+  TITLE     Fanconi Anemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301575
+REFERENCE   8  (residues 1 to 1279)
+  AUTHORS   Turner,J.T., Brzezinski,J. and Dome,J.S.
+  TITLE     Wilms Tumor Predisposition
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301471
+REFERENCE   9  (residues 1 to 1279)
+  AUTHORS   Petrucelli,N., Daly,M.B. and Pal,T.
+  TITLE     BRCA1- and BRCA2-Associated Hereditary Breast and Ovarian Cancer
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301425
+REFERENCE   10  (residues 1 to 1279)
+  AUTHORS   Watson,C.G.
+  TITLE     The life of a resolution--how ADA policy is made
+  JOURNAL   J Conf Workshop, 14-23 (1975)
+   PUBMED   1072445
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038192.3765894.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL445212.9 and AL137247.14.
+            Summary: Inherited mutations in BRCA1 and this gene, BRCA2, confer
+            increased lifetime risk of developing breast or ovarian cancer.
+            Both BRCA1 and BRCA2 are involved in maintenance of genome
+            stability, specifically the homologous recombination pathway for
+            double-strand DNA repair. The largest exon in both genes is exon
+            11, which harbors the most important and frequent mutations in
+            breast cancer patients. The BRCA2 gene was found on chromosome
+            13q12.3 in human. The BRCA2 protein contains several copies of a 70
+            aa motif called the BRC motif, and these motifs mediate binding to
+            the RAD51 recombinase which functions in DNA repair. BRCA2 is
+            considered a tumor suppressor gene, as tumors with BRCA2 mutations
+            generally exhibit loss of heterozygosity (LOH) of the wild-type
+            allele. [provided by RefSeq, May 2020].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..1279
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q13.1"
+     Protein         1..1279
+                     /product="breast cancer type 2 susceptibility protein
+                     isoform 5"
+                     /note="BRCA1/BRCA2-containing complex, subunit 2; breast
+                     cancer type 2 susceptibility protein; DNA repair-associated
+                     BRCA2; breast cancer 2 tumor suppressor; breast and ovarian
+                     cancer susceptibility gene, early onset; Fanconi anemia
+                     group D1 protein; breast and ovarian cancer susceptibility
+                     protein 2; breast cancer 2, early onset; mutant BRCA2;
+                     mutant DNA repair-associated protein 2"
+                     /calculated_mol_wt="144397"
+     Region          342..528
+                     /region_name="BRCA-2_helical"
+                     /note="BRCA2, helical; pfam09169"
+                     /db_xref="CDD:430446"
+     Region          531..657
+                     /region_name="BRCA-2_OB1"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 1; pfam09103"
+                     /db_xref="CDD:430410"
+     Site            order(551..553,579..582,584,590..592,594,610,618..620,
+                     636..638)
+                     /site_type="active"
+                     /note="generic binding surface I [active]"
+                     /db_xref="CDD:239939"
+     Site            order(586,597,600,605,608,611,643..646,648..649,652..653)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239939"
+     Region          665..915
+                     /region_name="BRCA2DBD_OB2"
+                     /note="A subfamily of OB folds corresponding to the second
+                     OB fold (OB2) of the 800-amino acid C-terminal ssDNA
+                     binding domain (DBD) of BRCA2 (breast cancer susceptibility
+                     gene 2) protein, called BRCA2DBD. BRCA2 participates in
+                     homologous recombination-mediated...; cd04494"
+                     /db_xref="CDD:239940"
+     Site            order(669..670,672..675,677)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239940"
+     Site            order(687..688,690,702,707,834,911,913..915)
+                     /site_type="other"
+                     /note="OB2/OB3 interface [polypeptide binding]"
+                     /db_xref="CDD:239940"
+     Site            order(702,832,849,851..852,887,889)
+                     /site_type="other"
+                     /note="ssDNA binding site [nucleotide binding]"
+                     /db_xref="CDD:239940"
+     Region          913..1047
+                     /region_name="BRCA-2_OB3"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 3; pfam09104"
+                     /db_xref="CDD:430411"
+     Site            order(934,980,982,984,1008)
+                     /site_type="active"
+                     /note="generic binding surface II [active]"
+                     /db_xref="CDD:239941"
+     Site            order(947..949,989,1000,1002..1003)
+                     /site_type="other"
+                     /note="ssDNA binding site [nucleotide binding]"
+                     /db_xref="CDD:239941"
+     CDS             1..1279
+                     /gene="BRCA2"
+                     /gene_synonym="BRCC2; BROVCA2; FACD; FAD; FAD1; FANCD;
+                     FANCD1; GLM3; PNCA2; XRCC11"
+                     /coded_by="NM_001406722.1:463..4302"
+                     /note="isoform 5 is encoded by transcript variant 5"
+                     /db_xref="GeneID:675"
+                     /db_xref="HGNC:HGNC:1101"
+                     /db_xref="MIM:600185"
+ORIGIN
+        1 mdqaddvscp llnsclsesp vvlqcthvtp qrdksvvcgs lfhtpkfvkg rqtpkhises
+       61 lgaevdpdms wssslatppt lsstvlivrn eeasetvfph dttanvksyf snhdeslkkn
+      121 drfiasvtds entnqreaas hgepsikrnl lnefdriien qekslkasks tpdgtikdrr
+      181 lfmhhvslep itcvpfrttk erqeiqnpnf tapgqeflsk shlyehltle ksssnlavsg
+      241 hpfyqvsatr nekmrhlitt grptkvfvpp fktkshfhrv eqcvrninle enrqkqnidg
+      301 hgsddsknki ndneihqfnk nnsnqavavt ftkceeepld litslqnard iqdmrikkkq
+      361 rqrvfpqpgs lylaktstlp rislkaavgg qvpsacshkq lytygvskhc ikinsknaes
+      421 fqfhtedyfg keslwtgkgi qladggwlip sndgkagkee fyralcdtpg vdpklisriw
+      481 vynhyrwiiw klaamecafp kefanrclsp ervllqlkyr ydteidrsrr saikkimerd
+      541 dtaaktlvlc vsdiislsan isetssnkts sadtqkvaii eltdgwyavk aqldppllav
+      601 lkngrltvgq kiilhgaelv gspdactple apeslmlkis anstrparwy tklgffpdpr
+      661 pfplplsslf sdggnvgcvd viiqraypiq wmektssgly ifrnereeek eaakyveaqq
+      721 krlealftki qeefeeheen ttkpylpsra ltrqqvralq dgaelyeavk naadpayleg
+      781 yfseeqlral nnhrqmlndk kqaqiqleir kamesaeqke qglsrdvttv wklrivsysk
+      841 kekdsvilsi wrpssdlysl ltegkryriy hlatsksksk seraniqlaa tkktqyqqlp
+      901 vsdeilfqiy qpreplhfsk fldpdfqpsc sevdligfvv svvkktglap fvylsdecyn
+      961 llaikfwidl nediikphml iaasnlqwrp esksglltlf agdfsvfsas pkeghfqetf
+     1021 nkmkntveni dilcneaenk lmhilhandp kwstptkdct sgpytaqiip gtgnkllmss
+     1081 pnceiyyqsp lslcmakrks vstpvsaqmt sksckgekei ddqknckkrr aldflsrlpl
+     1141 pppvspictf vspaaqkafq pprscgtkye tpikkkelns pqmtpfkkfn eisllesnsi
+     1201 adeelalint qallsgstge kqfisvsest rtaptssedy lrlkrrctts likeqessqa
+     1261 steeceknkq dtittkkyi
+//
+LOCUS       NP_001393648            3386 aa            linear   PRI 22-OCT-2023
+DEFINITION  breast cancer type 2 susceptibility protein isoform 3 [Homo
+            sapiens].
+ACCESSION   NP_001393648
+VERSION     NP_001393648.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+DBSOURCE    REFSEQ: accession NM_001406719.1
+REFERENCE   1  (residues 1 to 3386)
+  AUTHORS   Rein HL and Bernstein KA.
+  TITLE     Finding significance: New perspectives in variant classification of
+            the RAD51 regulators, BRCA2 and beyond
+  JOURNAL   DNA Repair (Amst) 130, 103563 (2023)
+   PUBMED   37651978
+  REMARK    GeneRIF: Finding significance: New perspectives in variant
+            classification of the RAD51 regulators, BRCA2 and beyond. Review
+            article
+REFERENCE   2  (residues 1 to 3386)
+  AUTHORS   Mohammed Ali SH, Abid Mohammed KI, Ali WM, Al-Fakhar SA, Al-Alwany
+            SHM and Mousa JM.
+  TITLE     Immunohistochemical Detection of the Expressed BRCA1 and BRCA2
+            Proteins in Microenvironment of Malignant Breast Cancerous Tissues
+            Infected with Human Mammary Tumor Virus
+  JOURNAL   Asian Pac J Cancer Prev 24 (9), 3261-3267 (2023)
+   PUBMED   37774080
+  REMARK    GeneRIF: Immunohistochemical Detection of the Expressed BRCA1 and
+            BRCA2 Proteins in Microenvironment of Malignant Breast Cancerous
+            Tissues Infected with Human Mammary Tumor Virus. Publication Status:
+            Online-Only
+REFERENCE   3  (residues 1 to 3386)
+  AUTHORS   Wilcox N, Dumont M, Gonzalez-Neira A, Carvalho S, Joly Beauparlant
+            C, Crotti M, Luccarini C, Soucy P, Dubois S, Nunez-Torres R, Pita G,
+            Gardner EJ, Dennis J, Alonso MR, Alvarez N, Baynes C,
+            Collin-Deschesnes AC, Desjardins S, Becher H, Behrens S, Bolla MK,
+            Castelao JE, Chang-Claude J, Cornelissen S, Dork T, Engel C,
+            Gago-Dominguez M, Guenel P, Hadjisavvas A, Hahnen E, Hartman M,
+            Herraez B, Jung A, Keeman R, Kiechle M, Li J, Loizidou MA, Lush M,
+            Michailidou K, Panayiotidis MI, Sim X, Teo SH, Tyrer JP, van der
+            Kolk LE, Wahlstrom C, Wang Q, Perry JRB, Benitez J, Schmidt MK,
+            Schmutzler RK, Pharoah PDP, Droit A, Dunning AM, Kvist A, Devilee P,
+            Easton DF and Simard J.
+  CONSRTM   SGBCC Investigators
+  TITLE     Exome sequencing identifies breast cancer susceptibility genes and
+            defines the contribution of coding variants to breast cancer risk
+  JOURNAL   Nat Genet 55 (9), 1435-1439 (2023)
+   PUBMED   37592023
+  REMARK    GeneRIF: Exome sequencing identifies breast cancer susceptibility
+            genes and defines the contribution of coding variants to breast
+            cancer risk. Erratum:[Nat Genet. 2023 Sep 26;:. PMID: 37752376]
+REFERENCE   4  (residues 1 to 3386)
+  AUTHORS   Setton J, Hadi K, Choo ZN, Kuchin KS, Tian H, Da Cruz Paula A,
+            Rosiene J, Selenica P, Behr J, Yao X, Deshpande A, Sigouros M,
+            Manohar J, Nauseef JT, Mosquera JM, Elemento O, Weigelt B, Riaz N,
+            Reis-Filho JS, Powell SN and Imielinski M.
+  TITLE     Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers
+  JOURNAL   Nature 621 (7977), 129-137 (2023)
+   PUBMED   37587346
+  REMARK    GeneRIF: Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers.
+REFERENCE   5  (residues 1 to 3386)
+  AUTHORS   Whitney M, Thayer M, Reifsteck C, Olson S, Smith L, Jakobs PM, Leach
+            R, Naylor S, Joenje H and Grompe M.
+  TITLE     Microcell mediated chromosome transfer maps the Fanconi anaemia
+            group D gene to chromosome 3p
+  JOURNAL   Nat Genet 11 (3), 341-343 (1995)
+   PUBMED   7581463
+REFERENCE   6  (residues 1 to 3386)
+  AUTHORS   Schutte M, da Costa LT, Hahn SA, Moskaluk C, Hoque AT, Rozenblum E,
+            Weinstein CL, Bittner M, Meltzer PS, Trent JM et al.
+  TITLE     Identification by representational difference analysis of a
+            homozygous deletion in pancreatic carcinoma that lies within the
+            BRCA2 region
+  JOURNAL   Proc Natl Acad Sci U S A 92 (13), 5950-5954 (1995)
+   PUBMED   7597059
+REFERENCE   7  (residues 1 to 3386)
+  AUTHORS   Mehta,P.A. and Ebens,C.
+  TITLE     Fanconi Anemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301575
+REFERENCE   8  (residues 1 to 3386)
+  AUTHORS   Turner,J.T., Brzezinski,J. and Dome,J.S.
+  TITLE     Wilms Tumor Predisposition
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301471
+REFERENCE   9  (residues 1 to 3386)
+  AUTHORS   Petrucelli,N., Daly,M.B. and Pal,T.
+  TITLE     BRCA1- and BRCA2-Associated Hereditary Breast and Ovarian Cancer
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301425
+REFERENCE   10  (residues 1 to 3386)
+  AUTHORS   Watson,C.G.
+  TITLE     The life of a resolution--how ADA policy is made
+  JOURNAL   J Conf Workshop, 14-23 (1975)
+   PUBMED   1072445
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038191.2492720.1,
+            SRR14038193.3672576.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA2142853 [ECO:0000348]
+            ##Evidence-Data-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL445212.9 and AL137247.14.
+            Summary: Inherited mutations in BRCA1 and this gene, BRCA2, confer
+            increased lifetime risk of developing breast or ovarian cancer.
+            Both BRCA1 and BRCA2 are involved in maintenance of genome
+            stability, specifically the homologous recombination pathway for
+            double-strand DNA repair. The largest exon in both genes is exon
+            11, which harbors the most important and frequent mutations in
+            breast cancer patients. The BRCA2 gene was found on chromosome
+            13q12.3 in human. The BRCA2 protein contains several copies of a 70
+            aa motif called the BRC motif, and these motifs mediate binding to
+            the RAD51 recombinase which functions in DNA repair. BRCA2 is
+            considered a tumor suppressor gene, as tumors with BRCA2 mutations
+            generally exhibit loss of heterozygosity (LOH) of the wild-type
+            allele. [provided by RefSeq, May 2020].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..3386
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q13.1"
+     Protein         1..3386
+                     /product="breast cancer type 2 susceptibility protein
+                     isoform 3"
+                     /note="BRCA1/BRCA2-containing complex, subunit 2; breast
+                     cancer type 2 susceptibility protein; DNA repair-associated
+                     BRCA2; breast cancer 2 tumor suppressor; breast and ovarian
+                     cancer susceptibility gene, early onset; Fanconi anemia
+                     group D1 protein; breast and ovarian cancer susceptibility
+                     protein 2; breast cancer 2, early onset; mutant BRCA2;
+                     mutant DNA repair-associated protein 2"
+                     /calculated_mol_wt="380461"
+     Region          1..40
+                     /region_name="Interaction with PALB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          37..68
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            70
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          358..381
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            445
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            492
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          639..1000
+                     /region_name="Interaction with NPM1.
+                     /evidence=ECO:0000269|PubMed:21084279"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            755
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17525332; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1002..1036
+                     /region_name="BRCA2 1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1003..2082
+                     /region_name="Interaction with RAD51.
+                     /evidence=ECO:0000250|UniProtKB:P97929"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1005..1033
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1216..1243
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1338..1781
+                     /region_name="Interaction with POLH.
+                     /evidence=ECO:0000269|PubMed:24485656"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1410..1595
+                     /region_name="Required for stimulation of POLH DNA
+                     polymerization activity"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1424..1452
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1522..1548
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1667..1695
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Site            1970
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1974..2002
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Site            2035
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2051..2085
+                     /region_name="BRCA2 8"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2055..2082
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Site            2095
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2318..2513
+                     /region_name="Interaction with FANCD2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2398..2418
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2449..2800
+                     /region_name="Interaction with SEM1.
+                     /evidence=ECO:0000269|PubMed:10373512,
+                     ECO:0000269|PubMed:16205630"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2449..2635
+                     /region_name="BRCA-2_helical"
+                     /note="BRCA2, helical; pfam09169"
+                     /db_xref="CDD:430446"
+     Region          2638..2764
+                     /region_name="BRCA-2_OB1"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 1; pfam09103"
+                     /db_xref="CDD:430410"
+     Region          2650..2666
+                     /region_name="Nuclear export signal, masked by interaction
+                     with SEM1. /evidence=ECO:0000269|PubMed:24013206"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            order(2658..2660,2686..2689,2691,2697..2699,2701,2717,
+                     2725..2727,2743..2745)
+                     /site_type="active"
+                     /note="generic binding surface I [active]"
+                     /db_xref="CDD:239939"
+     Site            order(2693,2704,2707,2712,2715,2718,2750..2753,2755..2756,
+                     2759..2760)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239939"
+     Region          2772..3022
+                     /region_name="BRCA2DBD_OB2"
+                     /note="A subfamily of OB folds corresponding to the second
+                     OB fold (OB2) of the 800-amino acid C-terminal ssDNA
+                     binding domain (DBD) of BRCA2 (breast cancer susceptibility
+                     gene 2) protein, called BRCA2DBD. BRCA2 participates in
+                     homologous recombination-mediated...; cd04494"
+                     /db_xref="CDD:239940"
+     Site            order(2776..2777,2779..2782,2784)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239940"
+     Site            order(2794..2795,2797,2809,2814,2941,3018,3020..3022)
+                     /site_type="other"
+                     /note="OB2/OB3 interface [polypeptide binding]"
+                     /db_xref="CDD:239940"
+     Site            order(2809,2939,2956,2958..2959,2994,2996)
+                     /site_type="other"
+                     /note="ssDNA binding site [nucleotide binding]"
+                     /db_xref="CDD:239940"
+     Region          3020..3154
+                     /region_name="BRCA-2_OB3"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 3; pfam09104"
+                     /db_xref="CDD:430411"
+     Site            order(3041,3087,3089,3091,3115)
+                     /site_type="active"
+                     /note="generic binding surface II [active]"
+                     /db_xref="CDD:239941"
+     Site            order(3054..3056,3096,3107,3109..3110)
+                     /site_type="other"
+                     /note="ssDNA binding site [nucleotide binding]"
+                     /db_xref="CDD:239941"
+     Site            3259
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine, by CDK1 and CDK2.
+                     /evidence=ECO:0000269|PubMed:15800615; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            3287
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            3355
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine, by CHEK1 and CHEK2.
+                     /evidence=ECO:0000269|PubMed:18317453; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          3361..3386
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     CDS             1..3386
+                     /gene="BRCA2"
+                     /gene_synonym="BRCC2; BROVCA2; FACD; FAD; FAD1; FANCD;
+                     FANCD1; GLM3; PNCA2; XRCC11"
+                     /coded_by="NM_001406719.1:200..10360"
+                     /note="isoform 3 is encoded by transcript variant 3"
+                     /db_xref="GeneID:675"
+                     /db_xref="HGNC:HGNC:1101"
+                     /db_xref="MIM:600185"
+ORIGIN
+        1 mpigskerpt ffeifktrcn kadlgpisln wfeelsseap pynsepaees ehknnnyepn
+       61 lfktpqrkps ynqlastpii fkeqgltlpl yqspvkeldk fkldlgrnvp nsrhkslrtv
+      121 ktkmdqaddv scpllnscls espvvlqcth vtpqrdksvv cgslfhtpkf vkgrqtpkhi
+      181 seslgaevdp dmswssslat pptlsstvli vrneeasetv fphdttanvk syfsnhdesl
+      241 kkndrfiasv tdsentnqre aashgfgkts gnsfkvnsck dhigksmpnv ledevyetvv
+      301 dtseedsfsl cfskcrtknl qkvrtsktrk kifheanade ceksknqvke kysfvsevep
+      361 ndtdpldsnv anqkpfesgs dkiskevvps lacewsqltl sglngaqmek ipllhisscd
+      421 qnisekdlld tenkrkkdfl tsenslpris slpksekpln eetvvnkrde eqhleshtdc
+      481 ilavkqaisg tspvassfqg ikksifrire spketfnasf sghmtdpnfk keteasesgl
+      541 eihtvcsqke dslcpnlidn gswpatttqn svalknagli stlkkktnkf iyaihdetsy
+      601 kgkkipkdqk selincsaqf eanafeaplt fanadsgllh ssvkrscsqn dseeptlslt
+      661 ssfgtilrkc srnetcsnnt visqdldyke akcnkeklql fitpeadsls clqegqcend
+      721 pkskkvsdik eevlaaachp vqhskveysd tdfqsqksll ydhenastli ltptskdvls
+      781 nlvmisrgke sykmsdklkg nnyesdvelt knipmeknqd vcalnenykn vellppekym
+      841 rvaspsrkvq fnqntnlrvi qknqeettsi skitvnpdse elfsdnennf vfqvanernn
+      901 lalgntkelh etdltcvnep ifknstmvly gdtgdkqatq vsikkdlvyv laeenknsvk
+      961 qhikmtlgqd lksdislnid kipeknndym nkwagllgpi snhsfggsfr tasnkeikls
+     1021 ehnikkskmf fkdieeqypt slacveivnt laldnqkkls kpqsintvsa hlqssvvvsd
+     1081 cknshitpqm lfskqdfnsn hnltpsqkae itelstilee sgsqfeftqf rkpsyilqks
+     1141 tfevpenqmt ilkttseecr dadlhvimna psigqvdssk qfegtveikr kfagllkndc
+     1201 nksasgyltd enevgfrgfy sahgtklnvs tealqkavkl fsdienisee tsaevhpisl
+     1261 ssskchdsvv smfkienhnd ktvseknnkc qlilqnniem ttgtfveeit enykrntene
+     1321 dnkytaasrn shnlefdgsd sskndtvcih kdetdllftd qhniclklsg qfmkegntqi
+     1381 kedlsdltfl evakaqeach gntsnkeqlt atkteqnikd fetsdtffqt asgknisvak
+     1441 esfnkivnff dqkpeelhnf slnselhsdi rknkmdilsy eetdivkhki lkesvpvgtg
+     1501 nqlvtfqgqp erdekikept llgfhtasgk kvkiakesld kvknlfdeke qgtseitsfs
+     1561 hqwaktlkyr eackdlelac etieitaapk ckemqnslnn dknlvsietv vppkllsdnl
+     1621 crqtenlkts ksiflkvkvh enveketaks patcytnqsp ysviensala fytscsrkts
+     1681 vsqtslleak kwlregifdg qperintady vgnylyenns nstiaendkn hlsekqdtyl
+     1741 snssmsnsys yhsdevynds gylsknklds giepvlknve dqkntsfskv isnvkdanay
+     1801 pqtvnedicv eelvtssspc knknaaikls isnsnnfevg ppafriasgk ivcvshetik
+     1861 kvkdiftdsf skvikennen kskicqtkim agcyealdds edilhnsldn decsthshkv
+     1921 fadiqseeil qhnqnmsgle kvskispcdv sletsdickc sigklhksvs santcgifst
+     1981 asgksvqvsd aslqnarqvf seiedstkqv fskvlfksne hsdqltreen tairtpehli
+     2041 sqkgfsynvv nssafsgfst asgkqvsile sslhkvkgvl eefdlirteh slhysptsrq
+     2101 nvskilprvd krnpehcvns emektcskef klsnnlnveg gssennhsik vspylsqfqq
+     2161 dkqqlvlgtk vslvenihvl gkeqaspknv kmeigktetf sdvpvktnie vcstyskdse
+     2221 nyfeteavei akafmeddel tdsklpshat hslftcpene emvlsnsrig krrgeplilv
+     2281 gtikdrrlfm hhvslepitc vpfrttkerq eiqnpnftap gqeflskshl yehltlekss
+     2341 snlavsghpf yqvsatrnek mrhlittgrp tkvfvppfkt kshfhrveqc vrninleenr
+     2401 qkqnidghgs ddsknkindn eihqfnknns nqavavtftk ceeepldlit slqnardiqd
+     2461 mrikkkqrqr vfpqpgslyl aktstlpris lkaavggqvp sacshkqlyt ygvskhciki
+     2521 nsknaesfqf htedyfgkes lwtgkgiqla dggwlipsnd gkagkeefyr alcdtpgvdp
+     2581 klisriwvyn hyrwiiwkla amecafpkef anrclsperv llqlkyrydt eidrsrrsai
+     2641 kkimerddta aktlvlcvsd iislsanise tssnktssad tqkvaiielt dgwyavkaql
+     2701 dppllavlkn grltvgqkii lhgaelvgsp dactpleape slmlkisans trparwytkl
+     2761 gffpdprpfp lplsslfsdg gnvgcvdvii qraypiqwme ktssglyifr nereeekeaa
+     2821 kyveaqqkrl ealftkiqee feeheenttk pylpsraltr qqvralqdga elyeavknaa
+     2881 dpaylegyfs eeqlralnnh rqmlndkkqa qiqleirkam esaeqkeqgl srdvttvwkl
+     2941 rivsyskkek dsvilsiwrp ssdlysllte gkryriyhla tskskskser aniqlaatkk
+     3001 tqyqqlpvsd eilfqiyqpr eplhfskfld pdfqpscsev dligfvvsvv kktglapfvy
+     3061 lsdecynlla ikfwidlned iikphmliaa snlqwrpesk sglltlfagd fsvfsaspke
+     3121 ghfqetfnkm kntvenidil cneaenklmh ilhandpkws tptkdctsgp ytaqiipgtg
+     3181 nkllmsspnc eiyyqsplsl cmakrksvst pvsaqmtsks ckgekeiddq knckkrrald
+     3241 flsrlplppp vspictfvsp aaqkafqppr scgtkyetpi kkkelnspqm tpfkkfneis
+     3301 llesnsiade elalintqal lsgstgekqf isvsestrta ptssedylrl krrcttslik
+     3361 eqessqaste eceknkqdti ttkkyi
+//
+LOCUS       NP_000050               3418 aa            linear   PRI 22-OCT-2023
+DEFINITION  breast cancer type 2 susceptibility protein isoform 1 [Homo
+            sapiens].
+ACCESSION   NP_000050
+VERSION     NP_000050.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+DBSOURCE    REFSEQ: accession NM_000059.4
+REFERENCE   1  (residues 1 to 3418)
+  AUTHORS   Rein HL and Bernstein KA.
+  TITLE     Finding significance: New perspectives in variant classification of
+            the RAD51 regulators, BRCA2 and beyond
+  JOURNAL   DNA Repair (Amst) 130, 103563 (2023)
+   PUBMED   37651978
+  REMARK    GeneRIF: Finding significance: New perspectives in variant
+            classification of the RAD51 regulators, BRCA2 and beyond. Review
+            article
+REFERENCE   2  (residues 1 to 3418)
+  AUTHORS   Mohammed Ali SH, Abid Mohammed KI, Ali WM, Al-Fakhar SA, Al-Alwany
+            SHM and Mousa JM.
+  TITLE     Immunohistochemical Detection of the Expressed BRCA1 and BRCA2
+            Proteins in Microenvironment of Malignant Breast Cancerous Tissues
+            Infected with Human Mammary Tumor Virus
+  JOURNAL   Asian Pac J Cancer Prev 24 (9), 3261-3267 (2023)
+   PUBMED   37774080
+  REMARK    GeneRIF: Immunohistochemical Detection of the Expressed BRCA1 and
+            BRCA2 Proteins in Microenvironment of Malignant Breast Cancerous
+            Tissues Infected with Human Mammary Tumor Virus. Publication Status:
+            Online-Only
+REFERENCE   3  (residues 1 to 3418)
+  AUTHORS   Wilcox N, Dumont M, Gonzalez-Neira A, Carvalho S, Joly Beauparlant
+            C, Crotti M, Luccarini C, Soucy P, Dubois S, Nunez-Torres R, Pita G,
+            Gardner EJ, Dennis J, Alonso MR, Alvarez N, Baynes C,
+            Collin-Deschesnes AC, Desjardins S, Becher H, Behrens S, Bolla MK,
+            Castelao JE, Chang-Claude J, Cornelissen S, Dork T, Engel C,
+            Gago-Dominguez M, Guenel P, Hadjisavvas A, Hahnen E, Hartman M,
+            Herraez B, Jung A, Keeman R, Kiechle M, Li J, Loizidou MA, Lush M,
+            Michailidou K, Panayiotidis MI, Sim X, Teo SH, Tyrer JP, van der
+            Kolk LE, Wahlstrom C, Wang Q, Perry JRB, Benitez J, Schmidt MK,
+            Schmutzler RK, Pharoah PDP, Droit A, Dunning AM, Kvist A, Devilee P,
+            Easton DF and Simard J.
+  CONSRTM   SGBCC Investigators
+  TITLE     Exome sequencing identifies breast cancer susceptibility genes and
+            defines the contribution of coding variants to breast cancer risk
+  JOURNAL   Nat Genet 55 (9), 1435-1439 (2023)
+   PUBMED   37592023
+  REMARK    GeneRIF: Exome sequencing identifies breast cancer susceptibility
+            genes and defines the contribution of coding variants to breast
+            cancer risk. Erratum:[Nat Genet. 2023 Sep 26;:. PMID: 37752376]
+REFERENCE   4  (residues 1 to 3418)
+  AUTHORS   Setton J, Hadi K, Choo ZN, Kuchin KS, Tian H, Da Cruz Paula A,
+            Rosiene J, Selenica P, Behr J, Yao X, Deshpande A, Sigouros M,
+            Manohar J, Nauseef JT, Mosquera JM, Elemento O, Weigelt B, Riaz N,
+            Reis-Filho JS, Powell SN and Imielinski M.
+  TITLE     Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers
+  JOURNAL   Nature 621 (7977), 129-137 (2023)
+   PUBMED   37587346
+  REMARK    GeneRIF: Long-molecule scars of backup DNA repair in BRCA1- and
+            BRCA2-deficient cancers.
+REFERENCE   5  (residues 1 to 3418)
+  AUTHORS   Whitney M, Thayer M, Reifsteck C, Olson S, Smith L, Jakobs PM, Leach
+            R, Naylor S, Joenje H and Grompe M.
+  TITLE     Microcell mediated chromosome transfer maps the Fanconi anaemia
+            group D gene to chromosome 3p
+  JOURNAL   Nat Genet 11 (3), 341-343 (1995)
+   PUBMED   7581463
+REFERENCE   6  (residues 1 to 3418)
+  AUTHORS   Schutte M, da Costa LT, Hahn SA, Moskaluk C, Hoque AT, Rozenblum E,
+            Weinstein CL, Bittner M, Meltzer PS, Trent JM et al.
+  TITLE     Identification by representational difference analysis of a
+            homozygous deletion in pancreatic carcinoma that lies within the
+            BRCA2 region
+  JOURNAL   Proc Natl Acad Sci U S A 92 (13), 5950-5954 (1995)
+   PUBMED   7597059
+REFERENCE   7  (residues 1 to 3418)
+  AUTHORS   Mehta,P.A. and Ebens,C.
+  TITLE     Fanconi Anemia
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301575
+REFERENCE   8  (residues 1 to 3418)
+  AUTHORS   Turner,J.T., Brzezinski,J. and Dome,J.S.
+  TITLE     Wilms Tumor Predisposition
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301471
+REFERENCE   9  (residues 1 to 3418)
+  AUTHORS   Petrucelli,N., Daly,M.B. and Pal,T.
+  TITLE     BRCA1- and BRCA2-Associated Hereditary Breast and Ovarian Cancer
+  JOURNAL   (in) Adam MP, Feldman J, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH,
+            Gripp KW and Amemiya A (Eds.); GENEREVIEWS(R); (1993)
+   PUBMED   20301425
+REFERENCE   10  (residues 1 to 3418)
+  AUTHORS   Watson,C.G.
+  TITLE     The life of a resolution--how ADA policy is made
+  JOURNAL   J Conf Workshop, 14-23 (1975)
+   PUBMED   1072445
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR14038193.3812502.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMEA1965299,
+            SAMEA1968968 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match          :: ENST00000380152.8/ ENSP00000369497.3
+            RefSeq Select criteria :: based on manual assertion, conservation,
+            expression, longest protein
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL445212.9 and AL137247.14.
+            On Feb 27, 2020 this sequence version replaced NP_000050.2.
+            Summary: Inherited mutations in BRCA1 and this gene, BRCA2, confer
+            increased lifetime risk of developing breast or ovarian cancer.
+            Both BRCA1 and BRCA2 are involved in maintenance of genome
+            stability, specifically the homologous recombination pathway for
+            double-strand DNA repair. The largest exon in both genes is exon
+            11, which harbors the most important and frequent mutations in
+            breast cancer patients. The BRCA2 gene was found on chromosome
+            13q12.3 in human. The BRCA2 protein contains several copies of a 70
+            aa motif called the BRC motif, and these motifs mediate binding to
+            the RAD51 recombinase which functions in DNA repair. BRCA2 is
+            considered a tumor suppressor gene, as tumors with BRCA2 mutations
+            generally exhibit loss of heterozygosity (LOH) of the wild-type
+            allele. [provided by RefSeq, May 2020].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..3418
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q13.1"
+     Protein         1..3418
+                     /product="breast cancer type 2 susceptibility protein
+                     isoform 1"
+                     /note="BRCA1/BRCA2-containing complex, subunit 2; breast
+                     cancer type 2 susceptibility protein; DNA repair-associated
+                     BRCA2; breast cancer 2 tumor suppressor; breast and ovarian
+                     cancer susceptibility gene, early onset; Fanconi anemia
+                     group D1 protein; breast and ovarian cancer susceptibility
+                     protein 2; breast cancer 2, early onset; mutant BRCA2;
+                     mutant DNA repair-associated protein 2"
+                     /calculated_mol_wt="384101"
+     Region          1..40
+                     /region_name="Interaction with PALB2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          37..68
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            70
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          358..381
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            445
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            492
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          639..1000
+                     /region_name="Interaction with NPM1.
+                     /evidence=ECO:0000269|PubMed:21084279"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            755
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17525332; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1002..1036
+                     /region_name="BRCA2 1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1003..2082
+                     /region_name="Interaction with RAD51.
+                     /evidence=ECO:0000250|UniProtKB:P97929"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1005..1033
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1216..1243
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1338..1781
+                     /region_name="Interaction with POLH.
+                     /evidence=ECO:0000269|PubMed:24485656"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1410..1595
+                     /region_name="Required for stimulation of POLH DNA
+                     polymerization activity"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1424..1452
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1522..1548
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Region          1667..1695
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Site            1970
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          1974..2002
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Site            2035
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2051..2085
+                     /region_name="BRCA2 8"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2055..2082
+                     /region_name="BRCA2"
+                     /note="BRCA2 repeat; pfam00634"
+                     /db_xref="CDD:425790"
+     Site            2095
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2270..2337
+                     /region_name="Interaction with HSF2BP.
+                     /evidence=ECO:0000269|PubMed:31242413"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2350..2545
+                     /region_name="Interaction with FANCD2"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2430..2450
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2481..2832
+                     /region_name="Interaction with SEM1.
+                     /evidence=ECO:0000269|PubMed:10373512,
+                     ECO:0000269|PubMed:16205630"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Region          2481..2667
+                     /region_name="BRCA-2_helical"
+                     /note="BRCA2, helical; pfam09169"
+                     /db_xref="CDD:430446"
+     Region          2670..2796
+                     /region_name="BRCA-2_OB1"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 1; pfam09103"
+                     /db_xref="CDD:430410"
+     Region          2682..2698
+                     /region_name="Nuclear export signal, masked by interaction
+                     with SEM1. /evidence=ECO:0000269|PubMed:24013206"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     Site            order(2690..2692,2718..2721,2723,2729..2731,2733,2749,
+                     2757..2759,2775..2777)
+                     /site_type="active"
+                     /note="generic binding surface I [active]"
+                     /db_xref="CDD:239939"
+     Site            order(2725,2736,2739,2744,2747,2750,2782..2785,2787..2788,
+                     2791..2792)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239939"
+     Region          2804..3054
+                     /region_name="BRCA2DBD_OB2"
+                     /note="A subfamily of OB folds corresponding to the second
+                     OB fold (OB2) of the 800-amino acid C-terminal ssDNA
+                     binding domain (DBD) of BRCA2 (breast cancer susceptibility
+                     gene 2) protein, called BRCA2DBD. BRCA2 participates in
+                     homologous recombination-mediated...; cd04494"
+                     /db_xref="CDD:239940"
+     Site            order(2808..2809,2811..2814,2816)
+                     /site_type="active"
+                     /note="binding surface II [active]"
+                     /db_xref="CDD:239940"
+     Site            order(2826..2827,2829,2841,2846,2973,3050,3052..3054)
+                     /site_type="other"
+                     /note="OB2/OB3 interface [polypeptide binding]"
+                     /db_xref="CDD:239940"
+     Site            order(2841,2971,2988,2990..2991,3026,3028)
+                     /site_type="other"
+                     /note="ssDNA binding site [nucleotide binding]"
+                     /db_xref="CDD:239940"
+     Region          3052..3186
+                     /region_name="BRCA-2_OB3"
+                     /note="BRCA2, oligonucleotide/oligosaccharide-binding,
+                     domain 3; pfam09104"
+                     /db_xref="CDD:430411"
+     Site            order(3073,3119,3121,3123,3147)
+                     /site_type="active"
+                     /note="generic binding surface II [active]"
+                     /db_xref="CDD:239941"
+     Site            order(3086..3088,3128,3139,3141..3142)
+                     /site_type="other"
+                     /note="ssDNA binding site [nucleotide binding]"
+                     /db_xref="CDD:239941"
+     Site            3291
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine, by CDK1 and CDK2.
+                     /evidence=ECO:0000269|PubMed:15800615; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            3319
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Site            3387
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine, by CHEK1 and CHEK2.
+                     /evidence=ECO:0000269|PubMed:18317453; propagated from
+                     UniProtKB/Swiss-Prot (P51587.4)"
+     Region          3393..3418
+                     /region_name="Disordered.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite"
+                     /note="propagated from UniProtKB/Swiss-Prot (P51587.4)"
+     CDS             1..3418
+                     /gene="BRCA2"
+                     /gene_synonym="BRCC2; BROVCA2; FACD; FAD; FAD1; FANCD;
+                     FANCD1; GLM3; PNCA2; XRCC11"
+                     /coded_by="NM_000059.4:200..10456"
+                     /note="isoform 1 is encoded by transcript variant 1"
+                     /db_xref="CCDS:CCDS9344.1"
+                     /db_xref="GeneID:675"
+                     /db_xref="HGNC:HGNC:1101"
+                     /db_xref="MIM:600185"
+ORIGIN
+        1 mpigskerpt ffeifktrcn kadlgpisln wfeelsseap pynsepaees ehknnnyepn
+       61 lfktpqrkps ynqlastpii fkeqgltlpl yqspvkeldk fkldlgrnvp nsrhkslrtv
+      121 ktkmdqaddv scpllnscls espvvlqcth vtpqrdksvv cgslfhtpkf vkgrqtpkhi
+      181 seslgaevdp dmswssslat pptlsstvli vrneeasetv fphdttanvk syfsnhdesl
+      241 kkndrfiasv tdsentnqre aashgfgkts gnsfkvnsck dhigksmpnv ledevyetvv
+      301 dtseedsfsl cfskcrtknl qkvrtsktrk kifheanade ceksknqvke kysfvsevep
+      361 ndtdpldsnv anqkpfesgs dkiskevvps lacewsqltl sglngaqmek ipllhisscd
+      421 qnisekdlld tenkrkkdfl tsenslpris slpksekpln eetvvnkrde eqhleshtdc
+      481 ilavkqaisg tspvassfqg ikksifrire spketfnasf sghmtdpnfk keteasesgl
+      541 eihtvcsqke dslcpnlidn gswpatttqn svalknagli stlkkktnkf iyaihdetsy
+      601 kgkkipkdqk selincsaqf eanafeaplt fanadsgllh ssvkrscsqn dseeptlslt
+      661 ssfgtilrkc srnetcsnnt visqdldyke akcnkeklql fitpeadsls clqegqcend
+      721 pkskkvsdik eevlaaachp vqhskveysd tdfqsqksll ydhenastli ltptskdvls
+      781 nlvmisrgke sykmsdklkg nnyesdvelt knipmeknqd vcalnenykn vellppekym
+      841 rvaspsrkvq fnqntnlrvi qknqeettsi skitvnpdse elfsdnennf vfqvanernn
+      901 lalgntkelh etdltcvnep ifknstmvly gdtgdkqatq vsikkdlvyv laeenknsvk
+      961 qhikmtlgqd lksdislnid kipeknndym nkwagllgpi snhsfggsfr tasnkeikls
+     1021 ehnikkskmf fkdieeqypt slacveivnt laldnqkkls kpqsintvsa hlqssvvvsd
+     1081 cknshitpqm lfskqdfnsn hnltpsqkae itelstilee sgsqfeftqf rkpsyilqks
+     1141 tfevpenqmt ilkttseecr dadlhvimna psigqvdssk qfegtveikr kfagllkndc
+     1201 nksasgyltd enevgfrgfy sahgtklnvs tealqkavkl fsdienisee tsaevhpisl
+     1261 ssskchdsvv smfkienhnd ktvseknnkc qlilqnniem ttgtfveeit enykrntene
+     1321 dnkytaasrn shnlefdgsd sskndtvcih kdetdllftd qhniclklsg qfmkegntqi
+     1381 kedlsdltfl evakaqeach gntsnkeqlt atkteqnikd fetsdtffqt asgknisvak
+     1441 esfnkivnff dqkpeelhnf slnselhsdi rknkmdilsy eetdivkhki lkesvpvgtg
+     1501 nqlvtfqgqp erdekikept llgfhtasgk kvkiakesld kvknlfdeke qgtseitsfs
+     1561 hqwaktlkyr eackdlelac etieitaapk ckemqnslnn dknlvsietv vppkllsdnl
+     1621 crqtenlkts ksiflkvkvh enveketaks patcytnqsp ysviensala fytscsrkts
+     1681 vsqtslleak kwlregifdg qperintady vgnylyenns nstiaendkn hlsekqdtyl
+     1741 snssmsnsys yhsdevynds gylsknklds giepvlknve dqkntsfskv isnvkdanay
+     1801 pqtvnedicv eelvtssspc knknaaikls isnsnnfevg ppafriasgk ivcvshetik
+     1861 kvkdiftdsf skvikennen kskicqtkim agcyealdds edilhnsldn decsthshkv
+     1921 fadiqseeil qhnqnmsgle kvskispcdv sletsdickc sigklhksvs santcgifst
+     1981 asgksvqvsd aslqnarqvf seiedstkqv fskvlfksne hsdqltreen tairtpehli
+     2041 sqkgfsynvv nssafsgfst asgkqvsile sslhkvkgvl eefdlirteh slhysptsrq
+     2101 nvskilprvd krnpehcvns emektcskef klsnnlnveg gssennhsik vspylsqfqq
+     2161 dkqqlvlgtk vslvenihvl gkeqaspknv kmeigktetf sdvpvktnie vcstyskdse
+     2221 nyfeteavei akafmeddel tdsklpshat hslftcpene emvlsnsrig krrgeplilv
+     2281 gepsikrnll nefdriienq ekslkaskst pdgtikdrrl fmhhvslepi tcvpfrttke
+     2341 rqeiqnpnft apgqeflsks hlyehltlek sssnlavsgh pfyqvsatrn ekmrhlittg
+     2401 rptkvfvppf ktkshfhrve qcvrninlee nrqkqnidgh gsddsknkin dneihqfnkn
+     2461 nsnqavavtf tkceeepldl itslqnardi qdmrikkkqr qrvfpqpgsl ylaktstlpr
+     2521 islkaavggq vpsacshkql ytygvskhci kinsknaesf qfhtedyfgk eslwtgkgiq
+     2581 ladggwlips ndgkagkeef yralcdtpgv dpklisriwv ynhyrwiiwk laamecafpk
+     2641 efanrclspe rvllqlkyry dteidrsrrs aikkimerdd taaktlvlcv sdiislsani
+     2701 setssnktss adtqkvaiie ltdgwyavka qldppllavl kngrltvgqk iilhgaelvg
+     2761 spdactplea peslmlkisa nstrparwyt klgffpdprp fplplsslfs dggnvgcvdv
+     2821 iiqraypiqw mektssglyi frnereeeke aakyveaqqk rlealftkiq eefeeheent
+     2881 tkpylpsral trqqvralqd gaelyeavkn aadpaylegy fseeqlraln nhrqmlndkk
+     2941 qaqiqleirk amesaeqkeq glsrdvttvw klrivsyskk ekdsvilsiw rpssdlysll
+     3001 tegkryriyh latsksksks eraniqlaat kktqyqqlpv sdeilfqiyq preplhfskf
+     3061 ldpdfqpscs evdligfvvs vvkktglapf vylsdecynl laikfwidln ediikphmli
+     3121 aasnlqwrpe sksglltlfa gdfsvfsasp keghfqetfn kmkntvenid ilcneaenkl
+     3181 mhilhandpk wstptkdcts gpytaqiipg tgnkllmssp nceiyyqspl slcmakrksv
+     3241 stpvsaqmts ksckgekeid dqknckkrra ldflsrlplp ppvspictfv spaaqkafqp
+     3301 prscgtkyet pikkkelnsp qmtpfkkfne isllesnsia deelalintq allsgstgek
+     3361 qfisvsestr taptssedyl rlkrrcttsl ikeqessqas teeceknkqd tittkkyi
+//
