@@ -1,0 +1,7 @@
+METHODS:
+************************************************************************************************
+After setting up each database and running blastp locally on a gcloud VM for the given fasta files, I passed the resulting xml files to the 22.1.py script that I wrote. The nested loops are essentially taken from the lecture material with pandas being used to organize the filtered information, although, I understand that blastp has functionality to send the output directly to a tabular file format. The resulting table is sorted by score to get our results for the assignment and creates a csv file with the resulting output for debugging.
+
+DISCUSSION:
+************************************************************************************************
+Score is an incredibly simplistic way to assess "conservation", however, for the purposes of this assignment it should serve well enough. Biopython's ncbixml parser is extremely helpful in this scenario for reducing the amount of code we need to write. For larger projects I will likely need to implement a control flow that ingests multiple fasta files and passes them directly to blast, but for the two simple command line executions I needed here I decided writing the control flow was not worth the development time.
