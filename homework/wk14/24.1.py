@@ -1,3 +1,5 @@
+"""Write a python program using SQLObject to lookup the scientific name for a user-supplied organism name."""
+
 from sqlobject import *
 import os.path
 import sys
